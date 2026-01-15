@@ -3,6 +3,22 @@
 ## Repository Purpose
 This repository documents a kitchen design and cabinetry specification organized by construction sections. It's intended for cabinet makers, contractors, and appliance installers working on a kitchen renovation in Mexico.
 
+## ⚠️ CRITICAL: ALWAYS RUN BUILD SCRIPT AFTER ANY EDIT
+
+**MANDATORY**: After making ANY changes to ANY markdown file (.md or .es.md), you MUST immediately run:
+
+```powershell
+.\build\build-pdf.ps1
+```
+
+**NO EXCEPTIONS.** This is not optional. Every edit requires running the build script to:
+- Verify no pandoc errors were introduced
+- Ensure both language versions generate successfully
+- Validate image paths are correct
+- Confirm content renders properly
+
+**If the build script fails, you must fix the errors before completing the task.**
+
 ## Critical Structural Rules
 
 ### 1. Dual-Language System (English/Spanish)
@@ -149,10 +165,11 @@ When making changes:
 - Keep specifications synchronized across sections
 - Update appliances-list.md when mentioning appliances in sections
 - Maintain consistency in terminology across all files
-- **ALWAYS run the build script after making changes:** `.\build\build-pdf.ps1`
 
-### 12. Build Process
-**CRITICAL: After any markdown file changes, ALWAYS run the build script:**
+### 12. Build Process - RUN AFTER EVERY EDIT
+**MANDATORY: There is NO edit to ANY markdown file where you do not run the build script.**
+
+After ANY markdown file changes (no matter how small), you MUST run:
 
 ```powershell
 .\build\build-pdf.ps1
@@ -167,6 +184,8 @@ Run the build to verify:
 - Both language versions generate successfully
 - Image paths are correct
 - Content renders properly
+
+**This is not optional. This is not conditional. ALWAYS run the build script after editing ANY .md or .es.md file.**
 
 ## Common Tasks
 

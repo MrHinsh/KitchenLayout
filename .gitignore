@@ -1,5 +1,6 @@
 # Build output
 output/
+media-*/
 
 # Office temporary files
 ~$*.docx
