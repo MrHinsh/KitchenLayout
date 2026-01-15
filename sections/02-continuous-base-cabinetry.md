@@ -1,6 +1,6 @@
 # Continuous Base Cabinetry
 
-![Base Cabinetry Render](images/renders/section-02-continuous-base/hob-sample.png)
+![Base Cabinetry Render](images/renders/section-02-continuous-base/overview.png)
 
 *Note: Renders are AI-generated for indication purposes only and do not represent exact measurements or final appearance.*
 
@@ -60,6 +60,8 @@ This section spans two walls and provides continuous base cabinetry with integra
 ---
 
 ## Hob Section
+
+![Hob Section](images/renders/section-02-continuous-base/hob-sample.png)
 
 **Hob width:** 900 mm (IO Mabe PIO90SMXN0)  
 **Cabinet section width:** 1000 mm
