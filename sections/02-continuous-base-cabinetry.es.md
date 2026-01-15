@@ -6,19 +6,31 @@
 
 Esta sección abarca dos muros y proporciona gabinetes base continuos con fregadero, lavavajillas y almacenamiento integrados.
 
-### Dimensiones
-- Altura: Altura de encimera estándar (a definir)
-- Profundidad: Profundidad estándar de gabinete base (a definir)
-- Extensión total: a definir mm (abarcando dos muros)
+### Extensión total
+- **Longitud:** a definir mm (abarcando dos muros)
 
-### Materiales y acabado
-- **Madera maciza de Parota**, tono natural oscuro
-- Frentes planos, modernos, sin manijas
-- Consistente con la estética de gabinería alta
+---
 
-### Herrajes
-- Herrajes de cierre suave en todo
-- Bisagras y correderas adecuadas para condiciones tropicales húmedas
+## Estándares y Especificaciones Comunes
+
+### Dimensiones estándar
+- **Altura:** Altura de encimera estándar (a definir)
+- **Profundidad:** Profundidad estándar de gabinete base (a definir)
+
+### Materiales y acabado estándar
+- **Madera:** Madera maciza de Parota, tono natural oscuro
+- **Estilo:** Frentes planos, modernos, sin manijas
+- **Estética:** Consistente con gabinería alta
+
+### Herrajes estándar
+- **Bisagras:** Cierre suave, adecuadas para condiciones tropicales húmedas
+- **Correderas de cajones:** Extensión completa, cierre suave, servicio pesado, adecuadas para condiciones tropicales húmedas
+- **Mecanismos extraíbles:** Servicio pesado con cierre suave
+
+### Continuidad visual
+- Todos los frentes de cajones y puertas alineados para apariencia continua
+- Diseño sin manijas mantenido en todo
+- Zócalo negro empotrado continuo a lo largo de toda la extensión
 
 ---
 
@@ -50,8 +62,9 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 ### Configuración
 - **Placa:** IO Mabe PIO90SMXN0 (placa de gas de 900 mm) - ver appliances-list.md
 - Placa centrada dentro de la sección de 1000 mm
-- **Tira de relleno de aluminio:** Tira de aluminio con recubrimiento en polvo negro mate de ancho completo en el borde frontal para corregir la diferencia de profundidad entre el granito y la placa
-- Cajones debajo de la placa desde el piso hasta el espacio libre inferior
+- **Marco de aluminio:** Pieza única de aluminio con recubrimiento en polvo negro mate de ancho completo que envuelve el perímetro de la placa, incluyendo salpicadero y caída frontal, para corregir la diferencia de profundidad entre el granito y la placa
+- Cajones de formato profundo debajo de la placa desde el piso hasta el espacio libre inferior
+- Rieles posicionados para no obstruir el cuerpo de la placa o la conexión de gas
 
 ### Especificación de cajones
 - Cajones de formato profundo con extensión completa
@@ -64,6 +77,7 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 - Recorte de granito según especificaciones de la placa (verificar dimensiones en la unidad física)
 - Ventilación frontal e inferior según se requiera
 - Sin horno debajo, solo cajones
+- Marco de aluminio negro de pieza única para integrarse perfectamente con la superficie de vidrio negro de la placa
 
 ### Intención visual
 - Tira de relleno de aluminio negro para integrarse perfectamente con la superficie de vidrio negro de la placa
@@ -95,17 +109,9 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 
 ### Dimensiones
 - **Ancho:** a definir mm
-- **Altura:** Altura de encimera estándar
-- **Profundidad:** Profundidad estándar de gabinete base
 
 ### Configuración
 - Pila de **cajones profundos** desde el nivel del piso hasta la altura de la encimera
-- Correderas de extensión completa con cierre suave
-- **Frentes de madera maciza de Parota**, sin manijas
-- Correderas de servicio pesado adecuadas para condiciones tropicales húmedas
-
-### Intención visual
-- Cajones alineados con gabinería adyacente para continuidad visual
 
 ---
 
@@ -113,24 +119,16 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 
 ### Dimensiones
 - **Ancho:** Configuración de esquina (a definir mm cada muro)
-- **Altura:** Altura de encimera estándar
-- **Profundidad:** Profundidad estándar de gabinete base
 
 ### Configuración
-- Gabinete de esquina con estantes giratorios **lazy susan**
+- Gabinete de esquina con estantes giratorios **lazy susan** (a definir)
 - Mecanismo giratorio de dos niveles para máximo acceso a la esquina
-- **Frentes de madera maciza de Parota**, sin manijas
-- Bisagras de cierre suave adecuadas para ambientes húmedos
 - Clasificado para carga de artículos pesados (ollas, sartenes, electrodomésticos)
 
 ### Herrajes
-- Mecanismo lazy susan de servicio pesado
+- Mecanismo lazy susan de servicio pesado (a definir)
 - Resistente a la corrosión para condiciones tropicales húmedas
 - Rotación suave con distribución adecuada del peso
-
-### Intención visual
-- Puertas de esquina alineadas con recorridos adyacentes
-- Integración perfecta en la unión de esquina
 
 ---
 
@@ -138,12 +136,12 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 
 ### Dimensiones
 - **Ancho:** a definir mm (típicamente 600 mm para cubos duales)
-- **Altura:** Altura de encimera estándar
-- **Profundidad:** Profundidad estándar de gabinete base
 
 ### Configuración
 - Unidad extraíble con cubos duales de basura/reciclaje
-- Mecanismo de deslizamiento de servicio pesado con cierre suave
+- Cubos removibles para limpieza
+- Ventilación para manejo de olores
+- Sin indicación visible de almacenamiento de basura cuando está cerrado
 - **Frente de madera maciza de Parota**, sin manijas
 - Cubos removibles para limpieza
 - Consideraciones de ventilación para manejo de olores
@@ -154,24 +152,17 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 - Materiales de fácil limpieza
 - Mecanismo de tapa seguro
 
-### Intención visual
-- Panel frontal alineado con gabinería adyacente
-- Sin indicación visible de almacenamiento de basura cuando está cerrado
-
 ---
 
 ## Sección de Fregadero
 
 ### Dimensiones
 - **Ancho:** a definir mm
-- **Altura:** Altura de encimera estándar
-- **Profundidad:** Profundidad estándar de gabinete base
 
 ### Configuración
 - Fregadero instalado en encimera de granito
 - Gabinete bajo fregadero con organización interna
-- **Frentes de madera maciza de Parota** (frente de cajón falso arriba del fregadero, puertas de gabinete abajo), sin manijas
-- Bisagras de cierre suave adecuadas para ambientes húmedos
+- Frente de cajón falso arriba del fregadero, puertas de gabinete abajo
 
 ### Plomería
 - Suministro de agua caliente y fría (conexiones existentes - ver plumbing.md)
@@ -185,10 +176,6 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 - Montaje: Bajo encimera o sobre encimera (a definir)
 - Grifo: a definir
 
-### Intención visual
-- Frente de cajón falso arriba del fregadero alineado con bancos de cajones adyacentes
-- Puertas de gabinete abajo proporcionan acceso a plomería y almacenamiento
-
 ---
 
 ## Integración del Lavavajillas
@@ -200,9 +187,10 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 
 ### Configuración
 - Lavavajillas completamente integrado Samsung DW80CG5420SREM (ver appliances-list.md)
-- **Panel de madera Parota** personalizado en la puerta, alineado con frentes de cajones adyacentes
+- Panel de madera Parota personalizado en la puerta
 - Controles ocultos montados en la parte superior
 - Ventilación frontal vía zócalo
+- Completamente integrado - indistinguible de cajones adyacentes cuando está cerrado
 
 ### Requisitos de instalación
 - Eléctrico: 120 V / 60 Hz (circuito existente - ver electrical.md)
@@ -210,28 +198,15 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 - Drenaje: Lazo alto o separador de aire según código local (existente - ver plumbing.md)
 - Zócalo removible y alineado con zócalo negro empotrado
 
-### Intención visual
-- Completamente integrado con panel personalizado
-- Indistinguible de cajones adyacentes cuando está cerrado
-- Mantiene estética continua sin manijas
-
 ---
 
 ## Banco de Cajones 3
 
 ### Dimensiones
 - **Ancho:** a definir mm
-- **Altura:** Altura de encimera estándar
-- **Profundidad:** Profundidad estándar de gabinete base
 
 ### Configuración
 - Pila de **cajones profundos** desde el nivel del piso hasta la altura de la encimera
-- Correderas de extensión completa con cierre suave
-- **Frentes de madera maciza de Parota**, sin manijas
-- Correderas de servicio pesado adecuadas para condiciones tropicales húmedas
-
-### Intención visual
-- Cajones alineados con gabinería adyacente para continuidad visual
 - Completa el recorrido base continuo
 
 ---
@@ -241,14 +216,11 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 ### Encimera
 - **Se conserva el granito existente** - sin reemplazo
 - Solo se permite corte para instalación de placa y fregadero
-- Ver sección de placa para detalles de relleno de aluminio
+- Ver sección de placa para detalles del marco de aluminio
 
 ### Eléctrico
 - Tomacorrientes a lo largo del salpicadero según se requiera
 - Usar circuitos existentes (ver electrical.md)
 - Verificar que las ubicaciones de tomacorrientes funcionen con el diseño de gabinetes
-
-### Zócalo
-- Zócalo negro empotrado continuo a lo largo de todo el recorrido
 - Removible para acceso y limpieza
 - Alineado con ventilación frontal del lavavajillas

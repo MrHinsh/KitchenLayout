@@ -4,31 +4,40 @@
 
 ## Overview
 
-Freestanding kitchen island providing additional workspace, storage, and seating.
+Freestanding kitchen island providing additional workspace and storage.
 
 ### Dimensions
-- Length: TBD mm
-- Width: TBD mm
-- Height: Standard counter height (TBD)
-
-### Materials and finish
-- **Solid Pirota wood**, dark natural tone
-- Flat, modern, handleless fronts
-- Consistent with overall kitchen aesthetic
-
-### Configuration
-- Storage drawers and/or cabinets
-- Countertop overhang for seating (if applicable)
-- Electrical outlets
-- Plumbing (if required)
+- **Length:** TBD mm
+- **Width:** TBD mm
+- **Height:** Standard counter height (TBD)
 
 ---
 
-## Subsections
+## Standards and Common Specifications
 
-*To be documented:*
-- Storage configuration
-- Countertop specifications
-- Seating details (if applicable)
-- Electrical requirements
-- Plumbing requirements (if applicable)
+### Standard materials and finish
+- **Wood:** Solid Parota wood, dark natural tone
+- **Style:** Flat, modern, handleless fronts
+- **Aesthetic:** Consistent with overall kitchen aesthetic
+
+### Standard hardware
+- **Drawer runners:** Full-extension, soft-close, heavy-duty, suitable for humid tropical conditions
+
+### Countertop
+- **Existing granite retained** - no replacement
+
+### Constraints
+- **No electrical circuits available** - no outlets on island
+- **No plumbing available** - no sink or water connection possible
+
+---
+
+## Drawer Bank
+
+### Dimensions
+- **Width:** Full length of one side (TBD mm)
+
+### Configuration
+- Stack of **deep drawers** from floor level to counter height on one side
+- Opposite sides: Solid panel finishes
+- Maximum storage capacity with full-extension drawers

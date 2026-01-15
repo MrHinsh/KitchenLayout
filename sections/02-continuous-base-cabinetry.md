@@ -6,19 +6,31 @@
 
 This section spans two walls and provides continuous base cabinetry with integrated sink, dishwasher, and storage.
 
-### Dimensions
-- Height: Standard counter height (TBD)
-- Depth: Standard base cabinet depth (TBD)
-- Total run: TBD mm (spanning two walls)
+### Total run
+- **Length:** TBD mm (spanning two walls)
 
-### Materials and finish
-- **Solid Parota wood**, dark natural tone
-- Flat, modern, handleless fronts
-- Consistent with tall cabinetry aesthetic
+---
 
-### Hardware
-- Soft-close hardware throughout
-- Hinges and runners suitable for humid tropical conditions
+## Standards and Common Specifications
+
+### Standard dimensions
+- **Height:** Standard counter height (TBD)
+- **Depth:** Standard base cabinet depth (TBD)
+
+### Standard materials and finish
+- **Wood:** Solid Parota wood, dark natural tone
+- **Style:** Flat, modern, handleless fronts
+- **Aesthetic:** Consistent with tall cabinetry
+
+### Standard hardware
+- **Hinges:** Soft-close, suitable for humid tropical conditions
+- **Drawer runners:** Full-extension, soft-close, heavy-duty, suitable for humid tropical conditions
+- **Pull-out mechanisms:** Heavy-duty with soft-close
+
+### Visual continuity
+- All drawer and door fronts aligned for seamless appearance
+- Handleless design maintained throughout
+- Recessed black plinth continuous along entire run
 
 ---
 
@@ -26,17 +38,9 @@ This section spans two walls and provides continuous base cabinetry with integra
 
 ### Dimensions
 - **Width:** TBD mm
-- **Height:** Standard counter height
-- **Depth:** Standard base cabinet depth
 
 ### Configuration
 - Stack of **deep drawers** from floor level to counter height
-- Full-extension, soft-close runners
-- **Solid Parota wood fronts**, handleless
-- Heavy-duty runners suitable for humid tropical conditions
-
-### Visual intent
-- Drawers aligned with adjacent cabinetry for visual continuity
 
 ---
 
@@ -44,19 +48,12 @@ This section spans two walls and provides continuous base cabinetry with integra
 
 ### Dimensions
 - **Overall width:** 1000 mm
-- **Height:** Standard counter height
-- **Depth:** Standard base cabinet depth
 
 ### Configuration
 - **Hob:** IO Mabe PIO90SMXN0 (900 mm gas hob) - see appliances-list.md
 - Hob centered within 1000 mm section
-- **Aluminium infill strip:** Full-width matte black powder-coated aluminium at front edge to correct depth difference between granite and hob
-- Drawers below hob from floor to underside clearance
-
-### Drawer specification
-- Full-extension, deep format drawers
-- **Solid Parota wood fronts**, handleless
-- Heavy-duty soft-close runners
+- **Aluminium infill surround:** Single piece of full-width matte black powder-coated aluminium wrapping around hob perimeter, including backsplash and front drop, to correct depth difference between granite and hob
+- Deep format drawers below hob from floor to underside clearance
 - Rails positioned to not obstruct hob body or gas connection
 
 ### Installation requirements
@@ -64,10 +61,7 @@ This section spans two walls and provides continuous base cabinetry with integra
 - Granite cut-out per hob specifications (verify dimensions on physical unit)
 - Front and underside ventilation as required
 - No oven below, drawers only
-
-### Visual intent
-- Black aluminium infill strip to integrate seamlessly with black glass hob surface
-- Drawer fronts aligned with adjacent cabinetry
+- Single-piece black aluminium surround to integrate seamlessly with black glass hob surface
 
 ---
 
@@ -75,19 +69,11 @@ This section spans two walls and provides continuous base cabinetry with integra
 
 ### Dimensions
 - **Width:** TBD mm (typically 150-200 mm)
-- **Height:** Standard counter height
-- **Depth:** Standard base cabinet depth
 
 ### Configuration
 - Full-height vertical pull-out unit
 - Internal shelving for pantry-style storage (bottles, oils, spices)
-- **Solid Parota wood front**, handleless
-- Heavy-duty pull-out mechanism with soft-close
-- Suitable for humid tropical conditions
-
-### Visual intent
 - Narrow vertical element providing specialized storage
-- Front aligned with adjacent drawer/cabinet fronts
 
 ---
 
@@ -95,17 +81,9 @@ This section spans two walls and provides continuous base cabinetry with integra
 
 ### Dimensions
 - **Width:** TBD mm
-- **Height:** Standard counter height
-- **Depth:** Standard base cabinet depth
 
 ### Configuration
 - Stack of **deep drawers** from floor level to counter height
-- Full-extension, soft-close runners
-- **Solid Parota wood fronts**, handleless
-- Heavy-duty runners suitable for humid tropical conditions
-
-### Visual intent
-- Drawers aligned with adjacent cabinetry for visual continuity
 
 ---
 
@@ -113,24 +91,16 @@ This section spans two walls and provides continuous base cabinetry with integra
 
 ### Dimensions
 - **Width:** Corner configuration (TBD mm each wall)
-- **Height:** Standard counter height
-- **Depth:** Standard base cabinet depth
 
 ### Configuration
-- Corner cabinet with **lazy susan** rotating shelves
+- Corner cabinet with **lazy susan** rotating shelves (TBD)
 - Two-tier rotating mechanism for maximum corner access
-- **Solid Parota wood fronts**, handleless
-- Soft-close hinges suitable for humid environments
 - Load-rated for heavy items (pots, pans, appliances)
 
 ### Hardware
-- Heavy-duty lazy susan mechanism
+- Heavy-duty lazy susan mechanism (TBD)
 - Corrosion-resistant for humid tropical conditions
 - Smooth rotation with proper weight distribution
-
-### Visual intent
-- Corner doors to align with adjacent runs
-- Seamless integration at corner junction
 
 ---
 
@@ -138,15 +108,12 @@ This section spans two walls and provides continuous base cabinetry with integra
 
 ### Dimensions
 - **Width:** TBD mm (typically 600 mm for dual bins)
-- **Height:** Standard counter height
-- **Depth:** Standard base cabinet depth
 
 ### Configuration
 - Pull-out unit with dual trash/recycling bins
-- Heavy-duty slide mechanism with soft-close
-- **Solid Parota wood front**, handleless
-- Bins to be removable for cleaning
-- Ventilation considerations for odor management
+- Bins removable for cleaning
+- Ventilation for odor management
+- No visible indication of trash storage when closed
 
 ### Bin specifications
 - Dual bins (trash and recycling)
@@ -154,24 +121,17 @@ This section spans two walls and provides continuous base cabinetry with integra
 - Easy-clean materials
 - Secure lid mechanism
 
-### Visual intent
-- Front panel aligned with adjacent cabinetry
-- No visible indication of trash storage when closed
-
 ---
 
 ## Sink Section
 
 ### Dimensions
 - **Width:** TBD mm
-- **Height:** Standard counter height
-- **Depth:** Standard base cabinet depth
 
 ### Configuration
 - Sink installed in granite countertop
 - Under-sink cabinet with internal organization
-- **Solid Parota wood fronts** (false drawer front above sink, cabinet doors below), handleless
-- Soft-close hinges suitable for humid environments
+- False drawer front above sink, cabinet doors below
 
 ### Plumbing
 - Hot and cold water supply (existing connections - see plumbing.md)
@@ -185,10 +145,6 @@ This section spans two walls and provides continuous base cabinetry with integra
 - Mounting: Undermount or top-mount (TBD)
 - Faucet: TBD
 
-### Visual intent
-- False drawer front above sink aligned with adjacent drawer banks
-- Cabinet doors below provide access to plumbing and storage
-
 ---
 
 ## Dishwasher Integration
@@ -200,9 +156,10 @@ This section spans two walls and provides continuous base cabinetry with integra
 
 ### Configuration
 - Samsung DW80CG5420SREM fully integrated dishwasher (see appliances-list.md)
-- Custom **Parota wood panel** on door, aligned with adjacent drawer fronts
+- Custom Parota wood panel on door
 - Top-mounted concealed controls
 - Front-venting via toe-kick
+- Fully integrated - indistinguishable from adjacent drawers when closed
 
 ### Installation requirements
 - Electrical: 120 V / 60 Hz (existing circuit - see electrical.md)
@@ -210,28 +167,15 @@ This section spans two walls and provides continuous base cabinetry with integra
 - Drain: High loop or air gap per local code (existing - see plumbing.md)
 - Toe-kick removable and aligned with recessed black plinth
 
-### Visual intent
-- Fully integrated with custom panel
-- Indistinguishable from adjacent drawers when closed
-- Maintains continuous handleless aesthetic
-
 ---
 
 ## Drawer Bank 3
 
 ### Dimensions
 - **Width:** TBD mm
-- **Height:** Standard counter height
-- **Depth:** Standard base cabinet depth
 
 ### Configuration
 - Stack of **deep drawers** from floor level to counter height
-- Full-extension, soft-close runners
-- **Solid Parota wood fronts**, handleless
-- Heavy-duty runners suitable for humid tropical conditions
-
-### Visual intent
-- Drawers aligned with adjacent cabinetry for visual continuity
 - Completes the continuous base run
 
 ---
@@ -241,14 +185,9 @@ This section spans two walls and provides continuous base cabinetry with integra
 ### Countertop
 - **Existing granite retained** - no replacement
 - Only cutting permitted for hob installation and sink
-- See hob section for aluminium infill details
+- See hob section for aluminium surround details
 
 ### Electrical
 - Outlets along backsplash as required
 - Use existing circuits (see electrical.md)
 - Verify outlet locations work with cabinet layout
-
-### Toe-Kick
-- Recessed black plinth continuous along entire run
-- Removable for access and cleaning
-- Aligned with dishwasher front venting
