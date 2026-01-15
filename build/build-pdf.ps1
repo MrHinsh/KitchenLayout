@@ -1,9 +1,9 @@
 # Kitchen Layout PDF Build Script
-# Requires: Pandoc
-# Note: For PDF generation, you need one of these installed:
-#   - MiKTeX or TeX Live (for pdflatex/xelatex)
-#   - wkhtmltopdf (https://wkhtmltopdf.org/)
-#   - Or use: pandoc --to docx instead to generate Word documents
+# Requires: Pandoc and a PDF engine
+# Install one of these PDF engines:
+#   - MiKTeX (Windows): https://miktex.org/download
+#   - TeX Live (Windows/Linux/Mac): https://www.tug.org/texlive/
+#   - Tectonic (faster alternative): https://tectonic-typesetting.github.io/
 
 $ErrorActionPreference = "Stop"
 
@@ -27,8 +27,8 @@ Write-Host "Building Kitchen Layout Documents (English & Spanish)..." -Foregroun
 Write-Host ""
 
 # Build English document
-Write-Host "Building English document..." -ForegroundColor Yellow
-$outputFileEN = "$outputDir/kitchen-layout-en.docx"
+Write-Host "Building English PDF..." -ForegroundColor Yellow
+$outputFileEN = "$outputDir/kitchen-layout-en.pdf"
 
 pandoc `
     --metadata title="Kitchen Layout Specification" `
@@ -42,23 +42,26 @@ pandoc `
     specifications/plumbing.md `
     specifications/appliances-list.md `
     -o $outputFileEN `
+    --pdf-engine=xelatex `
     --toc `
     --toc-depth=3 `
+    -V geometry:margin=1in `
+    -V linkcolor:blue `
     2>&1
 
 if ($LASTEXITCODE -eq 0) {
-    Write-Host "✓ English document generated successfully: $outputFileEN" -ForegroundColor Green
+    Write-Host "✓ English PDF generated successfully: $outputFileEN" -ForegroundColor Green
 }
 else {
-    Write-Error "Failed to generate English document. Check pandoc output above."
+    Write-Error "Failed to generate English PDF. Make sure you have a PDF engine installed (MiKTeX, TeX Live, or Tectonic). Check pandoc output above."
     exit 1
 }
 
 Write-Host ""
 
 # Build Spanish document
-Write-Host "Building Spanish document..." -ForegroundColor Yellow
-$outputFileES = "$outputDir/kitchen-layout-es.docx"
+Write-Host "Building Spanish PDF..." -ForegroundColor Yellow
+$outputFileES = "$outputDir/kitchen-layout-es.pdf"
 
 pandoc `
     --metadata title="Especificación de Diseño de Cocina" `
@@ -72,29 +75,32 @@ pandoc `
     specifications/plumbing.es.md `
     specifications/appliances-list.es.md `
     -o $outputFileES `
+    --pdf-engine=xelatex `
     --toc `
     --toc-depth=3 `
+    -V geometry:margin=1in `
+    -V linkcolor:blue `
     2>&1
 
 if ($LASTEXITCODE -eq 0) {
-    Write-Host "✓ Spanish document generated successfully: $outputFileES" -ForegroundColor Green
+    Write-Host "✓ Spanish PDF generated successfully: $outputFileES" -ForegroundColor Green
 }
 else {
-    Write-Error "Failed to generate Spanish document. Check pandoc output above."
+    Write-Error "Failed to generate Spanish PDF. Make sure you have a PDF engine installed (MiKTeX, TeX Live, or Tectonic). Check pandoc output above."
     exit 1
 }
 
 Write-Host ""
-Write-Host "✓ All documents generated successfully!" -ForegroundColor Green
+Write-Host "✓ All PDFs generated successfully!" -ForegroundColor Green
 Write-Host "  - $outputFileEN" -ForegroundColor Cyan
 Write-Host "  - $outputFileES" -ForegroundColor Cyan
 Write-Host ""
 
-# Try to open the English document, but don't fail if it errors
+# Try to open the English PDF, but don't fail if it errors
 try {
-    Write-Host "Opening English document..." -ForegroundColor Cyan
+    Write-Host "Opening English PDF..." -ForegroundColor Cyan
     Start-Process $outputFileEN -ErrorAction Stop
 }
 catch {
-    Write-Host "Note: Could not automatically open document. You can manually open: $outputFileEN" -ForegroundColor Yellow
+    Write-Host "Note: Could not automatically open PDF. You can manually open: $outputFileEN" -ForegroundColor Yellow
 }

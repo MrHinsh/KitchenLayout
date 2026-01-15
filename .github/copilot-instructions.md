@@ -159,8 +159,8 @@ When making changes:
 ```
 
 This generates:
-- `output/kitchen-layout-en.docx` (English)
-- `output/kitchen-layout-es.docx` (Spanish)
+- `output/kitchen-layout-en.pdf` (English)
+- `output/kitchen-layout-es.pdf` (Spanish)
 
 Run the build to verify:
 - No pandoc errors
