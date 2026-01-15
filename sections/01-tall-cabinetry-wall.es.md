@@ -30,164 +30,87 @@
 
 ## Sección de Almacenamiento Alto
 
-**Ancho del gabinete:** 600 mm
-
-- **Altura:** Piso a techo  
-- **Profundidad:** Igualar gabinetes altos adyacentes
+**Ancho del gabinete:** 600 mm  
+**Altura:** Piso a techo  
+**Profundidad:** Igualar gabinetes altos adyacentes
 
 **Configuración:**
-- La sección inferior consistirá en **cajones profundos** desde el nivel del piso hacia arriba  
+- Sección inferior: **cajones profundos** desde el nivel del piso hacia arriba (cajones de extensión completa, formato profundo para almacenamiento general)  
 - A una altura ergonómica práctica, los cajones transicionan a un **gabinete de altura completa**  
+- Gabinete superior: una sola puerta de altura completa o puertas divididas según lo requiera la altura, diseño interno configurable para almacenamiento tipo despensa (estantes ajustables)  
 - El gabinete superior continúa ininterrumpido hasta el techo  
 
-**Especificación de cajones:**
-- Cajones de extensión completa, formato profundo para almacenamiento general  
-
-### Especificación de gabinete superior
-- Una sola puerta de altura completa o puertas divididas según lo requieran la altura y los límites de herraje  
-- Puerta(s) **sin manijas**, perfil moderno plano  
-- Usar bisagras de cierre suave adecuadas para ambientes húmedos  
-- Diseño interno configurable para almacenamiento tipo despensa (estantes ajustables)  
-
-### Intención visual
-- La sección debe leerse como un volumen vertical limpio  
-- Transición limpia de cajones a gabinete sin rupturas visuales  
+**Intención visual:** La sección debe leerse como un volumen vertical limpio con transición limpia de cajones a gabinete sin rupturas visuales  
 
 ---
 
 ## Torre de Horno y Microondas
 
-**Ancho del gabinete:** 800 mm
-
-- **Altura:** Piso a techo  
-- **Profundidad:** Igualar gabinetes altos adyacentes
+**Ancho del gabinete:** 800 mm  
+**Altura:** Piso a techo  
+**Profundidad:** Igualar gabinetes altos adyacentes
 
 **Configuración de electrodomésticos:**
-- **Horno:** Horno eléctrico integrado, instalado a altura ergonómica estándar  
-  - **Alimentación:** 220 V  
-  - **Circuito:** Dedicado  
-- **Microondas:** Microondas independiente, visualmente integrado, instalado directamente arriba del horno a altura de cabeza  
-  - **Alimentación:** 110 V  
-  - **Suministro:** Puede ser compartido  
-
-Los electrodomésticos deben estar alineados verticalmente y centrados dentro del gabinete  
-
-### Integración del microondas
-- El microondas se instalará usando una **apertura tipo caja de sombra empotrada**  
-- Mantener una **revelación uniforme de 5–10 mm** en todos los lados  
-- Respetar todos los **espacios de ventilación del fabricante**  
+- **Horno:** Horno eléctrico integrado a altura ergonómica estándar (220 V circuito dedicado)  
+- **Microondas:** Microondas independiente, visualmente integrado, instalado directamente arriba del horno a altura de cabeza (110 V, suministro puede ser compartido)  
+- Los electrodomésticos deben estar alineados verticalmente y centrados dentro del gabinete  
+- Microondas instalado usando **apertura tipo caja de sombra empotrada** con revelación uniforme de 5–10 mm en todos los lados  
+- Respetar todos los espacios de ventilación del fabricante  
 - El microondas debe ser **completamente removible** sin desmontar la gabinería  
-- **Sin paneles, puertas ni revestimientos** aplicados al microondas  
-- Los kits de moldura solo deben usarse si el modelo seleccionado los soporta explícitamente  
+- **Sin paneles, puertas ni revestimientos** aplicados al microondas (kits de moldura solo si el modelo los soporta explícitamente)  
 
-**Sección inferior:**
-- Cajones desde el nivel del piso hasta la base del horno  
+**Configuración de gabinete:**
+- **Sección inferior:** Cajones desde el nivel del piso hasta la base del horno  
+- **Sección superior:** Gabinete de altura completa arriba del microondas extendiéndose hasta el techo (usar puerta levadiza vertical donde la altura permita operación segura, o dividir en dos puertas alineadas verticalmente si es demasiado alta)  
 
-**Sección superior:**
-- Gabinete de altura completa arriba del microondas, extendiéndose hasta el techo  
-- Usar **puerta levadiza vertical** donde la altura de la puerta permita operación segura  
-- Si la puerta es demasiado alta, dividir en dos puertas alineadas verticalmente  
-
-### Instalación eléctrica
-- **Circuito de 220 V dedicado al horno**  
-- **Suministro de 110 V para microondas puede ser compartido**  
-- Los tomacorrientes deben ser accesibles sin desmontar la gabinería  
-- Los circuitos deben estar claramente etiquetados en el panel eléctrico  
-
-### Servicios y seguridad
+**Instalación eléctrica y servicios:**
+- Circuito de 220 V dedicado al horno, suministro de 110 V para microondas puede ser compartido  
+- Tomacorrientes accesibles sin desmontar la gabinería  
+- Circuitos claramente etiquetados en el panel eléctrico  
 - Espacios de servicio solo donde lo requiera el electrodoméstico o el código eléctrico  
 - Aislamiento térmico donde lo requiera el fabricante del horno  
 
-### Intención visual
-- Horno y microondas deben leerse como una **composición vertical integrada única**  
-- El ancho de la sección debe coincidir visualmente con la **sección de almacenamiento de electrodomésticos de 800 mm**  
+**Intención visual:** Horno y microondas deben leerse como una composición vertical integrada única, el ancho de la sección debe coincidir visualmente con la sección de almacenamiento de electrodomésticos de 800 mm  
 
 ---
 
 ## Sección de Refrigerador
 
-**Ancho del electrodoméstico:** 908 mm (Samsung RF32CGSN10B1)
+**Ancho del electrodoméstico:** 908 mm (Samsung RF32CGSN10B1)  
+**Ancho total del gabinete:** 908 mm mínimo de abertura libre + holguras laterales  
+**Altura:** Piso a techo  
+**Profundidad:** Igualar gabinetes altos adyacentes
 
-**Ancho total del gabinete:** 908 mm mínimo de abertura libre + holguras laterales
+**Configuración:**
+- **Refrigerador:** Refrigerador de altura completa con puertas francesas y cajón congelador inferior instalado como independiente pero visualmente integrado, centrado dentro de la apertura con espacios especificados por el fabricante mantenidos  
+- **Gabinete superior:** Gabinete arriba del refrigerador extendiéndose completamente hasta el techo (puertas divididas si lo requiere la altura)  
 
-- **Altura:** Piso a techo  
-- **Profundidad:** Igualar gabinetes altos adyacentes
-
-**Configuración de electrodoméstico:**
-- **Refrigerador:** Refrigerador de altura completa con puertas francesas y cajón congelador inferior  
-- Electrodoméstico instalado como **independiente pero visualmente integrado**  
-- Refrigerador centrado dentro de la apertura  
-- Espacios especificados por el fabricante mantenidos  
-
-### Gabinete superior
-- Gabinete arriba del refrigerador extendiéndose completamente hasta el techo  
-- Puerta sin manijas, perfil moderno plano  
-- Bisagras de cierre suave adecuadas para ambientes húmedos  
-- Puertas divididas si lo requiere la altura y los límites de herraje  
-
-### Ventilación y servicios
+**Ventilación y servicios:**
 - Ventilación según requisitos del fabricante del refrigerador  
-- Tomacorriente **110 V**, suministro compartido aceptable  
-- El tomacorriente debe permanecer accesible  
+- Tomacorriente 110 V (suministro compartido aceptable), tomacorriente debe permanecer accesible  
 - Circuito a ser etiquetado en el panel eléctrico  
 
-### Intención visual
-- El refrigerador debe leerse como un **electrodoméstico integrado principal**  
-- El gabinete superior completa el ritmo vertical del muro  
+**Intención visual:** El refrigerador debe leerse como un electrodoméstico integrado principal, el gabinete superior completa el ritmo vertical del muro  
 
 ---
 
 ## Almacenamiento de Electrodomésticos (Garaje de Electrodomésticos)
 
-**Ancho del gabinete:** 800 mm
+**Ancho del gabinete:** 800 mm  
+**Altura:** Piso a techo  
+**Profundidad:** Igualar gabinetes altos adyacentes
 
-- **Altura:** Piso a techo  
-- **Profundidad:** Igualar gabinetes altos adyacentes
+**Sección inferior:** Cajones desde el nivel del piso hasta altura de encimera estándar (cajones de formato profundo para electrodomésticos pequeños y almacenamiento general, alturas de cajones alineadas visualmente con gabinetes base adyacentes)  
 
-**Sección inferior:**
+**Sección superior:** Almacenamiento de electrodomésticos de altura completa detrás de puertas desde altura de encimera hasta el techo, destinado para estación de café y electrodomésticos pequeños con estantería interna ajustable dimensionada para máquina de café, molino y accesorios, iluminación LED cálida integrada  
 
-### Dimensiones
-- **Ancho total:** 800 mm  
-- **Altura:** Piso a techo  
-- **Profundidad:** Igualar gabinetes altos adyacentes  
+**Puertas:** Puertas plegables con bisagras laterales (dos hojas por lado) que abren hacia afuera y se pliegan planas contra los paneles laterales del gabinete, se estacionan completamente abiertas sostenidas con retenedores magnéticos o mecánicos. **Sin puertas de bolsillo, sin sistemas de rodillos, sin mecanismos levadizos**. Dirección de la veta coincidente entre puertas y alineada con gabinería adyacente.  
 
-### Sección inferior
-- Cajones desde el nivel del piso hasta **altura de encimera estándar**  
-- Cajones de formato profundo para electrodomésticos pequeños y almacenamiento general  
-- Frentes de cajón en **madera maciza de Parota**, sin manijas  
-- Correderas de cajón de servicio pesado con cierre suave  
-- Alturas de cajones alineadas visualmente con gabinetes base adyacentes  
-
-### Sección superior
-- Almacenamiento de electrodomésticos de altura completa detrás de puertas, desde altura de encimera hasta el techo  
-- Destinado para **estación de café y electrodomésticos pequeños**  
-- Estantería interna ajustable dimensionada para máquina de café, molino y accesorios  
-- **Iluminación LED cálida** integrada  
-
-### Puertas
-- **Puertas plegables con bisagras laterales**, dos hojas por lado  
-- Las puertas abren hacia afuera y **se pliegan planas contra los paneles laterales del gabinete**  
-- Las puertas **se estacionan completamente abiertas**, sostenidas con retenedores magnéticos o mecánicos  
-- Bisagras de cierre suave adecuadas para ambientes húmedos  
-- **Sin puertas de bolsillo, sin sistemas de rodillos, sin mecanismos levadizos**  
-- Sin manijas, perfil plano  
-- Dirección de la veta coincidente entre puertas y alineada con gabinería adyacente  
-
-### Instalación eléctrica
-- **Tomacorrientes internos de 110 V** para electrodomésticos  
-- Suministro compartido aceptable  
-- Tomacorrientes ocultos pero accesibles  
-- Cableado clasificado para condiciones tropicales húmedas  
-
-### Servicios y ventilación
+**Instalación eléctrica y servicios:**
+- Tomacorrientes internos de 110 V para electrodomésticos (ver [electrical.es.md](specifications/electrical.es.md)), tomacorrientes ocultos pero accesibles  
 - Ventilación apropiada para máquinas de café y electrodomésticos pequeños  
-- Espacios de servicio solo donde se requiera  
-- Sin extracción activa a menos que se especifique posteriormente  
 
-### Intención visual
-- Cerrado: se lee como un **volumen de gabinete único e ininterrumpido**  
-- Abierto: las puertas no obstruyen el acceso ni se proyectan en el espacio de circulación  
-- Ancho balanceado con la **torre de horno/microondas de 800 mm**  
+**Intención visual:** Cerrado - se lee como un volumen de gabinete único e ininterrumpido. Abierto - las puertas no obstruyen el acceso ni se proyectan en el espacio de circulación. Ancho balanceado con la torre de horno/microondas de 800 mm.  
 
 ---
 
