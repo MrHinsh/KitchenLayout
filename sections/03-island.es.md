@@ -39,5 +39,5 @@ Isla de cocina independiente que proporciona espacio de trabajo adicional y alma
 
 ### Configuración
 - Pila de **cajones profundos** desde el nivel del piso hasta la altura de la encimera en un lado
-- Lados opuestos: Acabados de paneles sólidos
+- Lados opuestos: **Acabados de panel de madera Parota** que coinciden con la estética de los gabinetes
 - Máxima capacidad de almacenamiento con cajones de extensión completa

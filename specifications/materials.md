@@ -16,6 +16,7 @@
 * **Colour:** Dark natural Parota tone, grain visible.
 * **Finish system:**
 
+  * **Matte sheen**
   * Fully sealed and suitable for **humid tropical and coastal conditions** (Cancún).
   * Moisture-resistant and mould-resistant.
 * **Edge treatment:**

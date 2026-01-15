@@ -39,5 +39,5 @@ Freestanding kitchen island providing additional workspace and storage.
 
 ### Configuration
 - Stack of **deep drawers** from floor level to counter height on one side
-- Opposite sides: Solid panel finishes
+- Opposite sides: **Parota wood panel finishes** matching cabinetry aesthetic
 - Maximum storage capacity with full-extension drawers

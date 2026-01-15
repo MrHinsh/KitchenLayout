@@ -15,8 +15,7 @@
 
 * **Color:** Tono Parota natural oscuro, veta visible.
 * **Sistema de acabado:**
-
-  * Completamente sellado y adecuado para **condiciones tropicales húmedas y costeras** (Cancún).
+  * **Acabado mate**  * Completamente sellado y adecuado para **condiciones tropicales húmedas y costeras** (Cancún).
   * Resistente a la humedad y al moho.
 * **Tratamiento de bordes:**
 
