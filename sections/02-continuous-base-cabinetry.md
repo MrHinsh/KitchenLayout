@@ -12,6 +12,34 @@ This section spans two walls and provides continuous base cabinetry with integra
 
 ---
 
+## Wall Cabinets Above Continuous Base
+
+**Depth:** 350 mm  
+**Height:** From counter height to ceiling
+
+**Configuration:** Wall cabinets spanning the entire length of the continuous base cabinetry, extending from counter height to ceiling. These cabinets provide additional storage above the base units.
+
+**Interruptions:** Wall cabinets are interrupted at the following locations:
+* **Windows:** No wall cabinets where windows are present
+* **Oven location:** No wall cabinets above the oven (see [01-tall-cabinetry-wall.md](01-tall-cabinetry-wall.md))
+* **Air conditioning units:** Where air con units are present, wall cabinets stop short to accommodate the unit
+
+**Cabinet maker instructions:**
+* Wall cabinets to be 350 mm depth
+* Extend from counter height to ceiling wherever structurally feasible
+* Stop wall cabinets at window openings - no cabinets above or beside windows
+* Stop wall cabinets at oven location in tall cabinetry wall
+* Where air conditioning units are mounted on walls, cabinets must stop with adequate clearance for air con operation and access
+* Soft-close hinges suitable for humid tropical conditions
+* Handleless design consistent with base cabinetry
+* Parota wood to match base and tall cabinetry
+* Internal shelving adjustable for flexible storage
+* Consider weight capacity for stored items
+
+**Materials and finish:** Parota wood, dark natural tone, handleless, consistent with base and tall cabinetry aesthetic
+
+---
+
 ## Standards and Common Specifications
 
 **Standard dimensions:**  

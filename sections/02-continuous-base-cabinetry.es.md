@@ -12,6 +12,34 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 
 ---
 
+## Gabinetes de Pared Sobre Base Continua
+
+**Profundidad:** 350 mm  
+**Altura:** Desde altura de encimera hasta el techo
+
+**Configuración:** Gabinetes de pared que abarcan toda la longitud de los gabinetes base continuos, extendiéndose desde la altura de la encimera hasta el techo. Estos gabinetes proporcionan almacenamiento adicional sobre las unidades base.
+
+**Interrupciones:** Los gabinetes de pared se interrumpen en las siguientes ubicaciones:
+* **Ventanas:** Sin gabinetes de pared donde hay ventanas presentes
+* **Ubicación del horno:** Sin gabinetes de pared sobre el horno (ver [01-tall-cabinetry-wall.es.md](01-tall-cabinetry-wall.es.md))
+* **Unidades de aire acondicionado:** Donde hay unidades de aire acondicionado presentes, los gabinetes de pared se detienen para acomodar la unidad
+
+**Instrucciones para el ebanista:**
+* Los gabinetes de pared deben tener 350 mm de profundidad
+* Extender desde la altura de la encimera hasta el techo donde sea estructuralmente factible
+* Detener gabinetes de pared en las aberturas de ventanas - sin gabinetes sobre o al lado de ventanas
+* Detener gabinetes de pared en la ubicación del horno en el muro de gabinetería alta
+* Donde las unidades de aire acondicionado están montadas en muros, los gabinetes deben detenerse con holgura adecuada para operación y acceso del aire acondicionado
+* Bisagras con cierre suave adecuadas para condiciones tropicales húmedas
+* Diseño sin manijas consistente con gabinetes base
+* Madera Parota para coincidir con gabinetes base y altos
+* Estantería interna ajustable para almacenamiento flexible
+* Considerar capacidad de peso para artículos almacenados
+
+**Materiales y acabado:** Madera Parota, tono natural oscuro, sin manijas, consistente con gabinetes base y altos
+
+---
+
 ## Estándares y Especificaciones Comunes
 
 **Dimensiones estándar:**  
