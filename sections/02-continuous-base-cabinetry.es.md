@@ -88,21 +88,35 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 
 ---
 
-## Gabinete de Esquina con Lazy Susan
+## Gabinete de Esquina
 
 **Dimensiones:** Configuración de esquina (a definir mm cada muro)
 
-**Configuración:** Gabinete de esquina con estantes giratorios lazy susan (a definir), mecanismo giratorio de dos niveles para máximo acceso a la esquina, clasificado para carga de artículos pesados (ollas, sartenes, electrodomésticos)
+**Configuración:** Gabinete de esquina con estantes fijos para acceso de almacenamiento. Mecanismo giratorio lazy susan opcional y puede agregarse en una fecha posterior si se desea.
 
-**Herrajes:** Mecanismo lazy susan de servicio pesado (a definir), resistente a la corrosión para condiciones tropicales húmedas, rotación suave con distribución adecuada del peso
+**Instrucciones para el ebanista:**
+* Construir gabinete de esquina estándar con estantería fija
+* No se requiere herraje lazy susan inicialmente
+* El diseño permite instalación futura de mecanismo lazy susan si se desea
+* Asegurar holgura y estructura adecuadas para posible conversión futura a lazy susan
+* Estructura clasificada para carga de artículos pesados (ollas, sartenes, electrodomésticos)
+
+**Herrajes opcionales (mejora futura):** Mecanismo lazy susan de servicio pesado, resistente a la corrosión para condiciones tropicales húmedas, rotación suave con distribución adecuada del peso
 
 ---
 
-## Gabinete Extraíble para Cubos de Basura
+## Gabinete para Cubos de Basura
 
 **Ancho:** a definir mm (típicamente 600 mm para cubos duales)
 
-**Configuración:** Unidad extraíble con cubos duales de basura/reciclaje (removibles para limpieza), frente de madera maciza de Parota sin manijas, ventilación para manejo de olores, sin indicación visible de almacenamiento de basura cuando está cerrado
+**Configuración:** Puerta que abre a espacio interior para cubos duales de basura/reciclaje. No se requiere sistema mecánico extraíble - los cubos se colocan en el piso del gabinete y se acceden abriendo la puerta. Ventilación para manejo de olores, sin indicación visible de almacenamiento de basura cuando está cerrado.
+
+**Instrucciones para el ebanista:**
+* Gabinete simple con puerta - no se necesita herraje extraíble
+* Espacio interior dimensionado para acomodar cubos de basura estándar (removibles para limpieza)
+* Considerar orificios de ventilación o espacios para circulación de aire
+* Bisagras de puerta con cierre suave estándar adecuadas para condiciones tropicales húmedas
+* El diseño permite conversión futura a sistema extraíble si se desea
 
 **Especificaciones de cubos:** Cubos duales (basura y reciclaje), capacidad adecuada para uso doméstico, materiales de fácil limpieza, mecanismo de tapa seguro
 

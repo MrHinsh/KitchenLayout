@@ -61,21 +61,35 @@ This section spans two walls and provides continuous base cabinetry with integra
 
 ---
 
-## Corner Cabinet with Lazy Susan
+## Corner Cabinet
 
 **Dimensions:** Corner configuration (TBD mm each wall)
 
-**Configuration:** Corner cabinet with lazy susan rotating shelves (TBD), two-tier rotating mechanism for maximum corner access, load-rated for heavy items (pots, pans, appliances)
+**Configuration:** Corner cabinet with fixed shelves for storage access. Lazy susan rotating mechanism optional and can be added at a later date if desired.
 
-**Hardware:** Heavy-duty lazy susan mechanism (TBD), corrosion-resistant for humid tropical conditions, smooth rotation with proper weight distribution
+**Cabinet maker instructions:**
+* Build standard corner cabinet with fixed shelving
+* No lazy susan hardware required initially
+* Design allows for future installation of lazy susan mechanism if desired
+* Ensure adequate clearance and structure for potential future lazy susan conversion
+* Load-rated structure for heavy items (pots, pans, appliances)
+
+**Optional hardware (future upgrade):** Heavy-duty lazy susan mechanism, corrosion-resistant for humid tropical conditions, smooth rotation with proper weight distribution
 
 ---
 
-## Pull-Out Trash Bin Cabinet
+## Trash Bin Cabinet
 
 **Width:** TBD mm (typically 600 mm for dual bins)
 
-**Configuration:** Pull-out unit with dual trash/recycling bins (removable for cleaning), ventilation for odor management, no visible indication of trash storage when closed
+**Configuration:** Door opening to interior space for dual trash/recycling bins. No mechanical pullout system required - bins sit on cabinet floor and are accessed by opening the door. Ventilation for odor management, no visible indication of trash storage when closed.
+
+**Cabinet maker instructions:**
+* Simple cabinet box with door - no pullout hardware needed
+* Interior space sized to accommodate standard trash bins (removable for cleaning)
+* Consider ventilation holes or gaps for air circulation
+* Standard soft-close door hinges suitable for humid tropical conditions
+* Design allows for future conversion to pullout system if desired
 
 **Bin specifications:** Dual bins (trash and recycling), adequate capacity for household use, easy-clean materials, secure lid mechanism
 
