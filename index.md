@@ -10,6 +10,8 @@ toc-depth: 3
 
 Complete kitchen design documentation organized by construction sections.
 
+**Important:** All renders in this documentation are AI-generated for indication purposes only and do not represent exact measurements, materials, or final appearance. Refer to specifications and dimensions in the text for accurate information.
+
 ---
 
 # Section 1: Tall Cabinetry Wall

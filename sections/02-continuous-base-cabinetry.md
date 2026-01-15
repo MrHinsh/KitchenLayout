@@ -2,6 +2,8 @@
 
 ![Base Cabinetry Render](images/renders/section-02-continuous-base/hob-sample.png)
 
+*Note: Renders are AI-generated for indication purposes only and do not represent exact measurements or final appearance.*
+
 ## Overview
 
 This section spans two walls and provides continuous base cabinetry with integrated sink, dishwasher, and storage.

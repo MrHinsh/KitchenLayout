@@ -2,6 +2,8 @@
 
 ![Render de Gabinetes Base](images/renders/section-02-continuous-base/hob-sample.png)
 
+*Nota: Las imágenes renderizadas son generadas por IA solo con fines indicativos y no representan medidas exactas o apariencia final.*
+
 ## Descripción General
 
 Esta sección abarca dos muros y proporciona gabinetes base continuos con fregadero, lavavajillas y almacenamiento integrados.

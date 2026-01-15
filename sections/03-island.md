@@ -2,6 +2,8 @@
 
 ![Island Render](images/renders/section-03-island/overview.png)
 
+*Note: Renders are AI-generated for indication purposes only and do not represent exact measurements or final appearance.*
+
 ## Overview
 
 Freestanding kitchen island providing additional workspace and storage.

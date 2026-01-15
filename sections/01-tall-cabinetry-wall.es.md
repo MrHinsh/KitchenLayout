@@ -2,6 +2,8 @@
 
 ![Render del Muro de Gabinetes Altos](images/renders/section-01-tall-wall/overview.png)
 
+*Nota: Las imágenes renderizadas son generadas por IA solo con fines indicativos y no representan medidas exactas o apariencia final.*
+
 ## Muro de Gabinetes Altos – Instrucciones Generales
 
 ### Dimensiones

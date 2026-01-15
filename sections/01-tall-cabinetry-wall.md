@@ -2,6 +2,8 @@
 
 ![Tall Cabinetry Wall Render](images/renders/section-01-tall-wall/overview.png)
 
+*Note: Renders are AI-generated for indication purposes only and do not represent exact measurements or final appearance.*
+
 ## Tall Cabinetry Wall – General Instructions
 
 ### Dimensions

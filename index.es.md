@@ -10,7 +10,7 @@ lang: es
 # Especificación de Diseño de Cocina
 
 Documentación completa del diseño de cocina organizada por secciones de construcción.
-
+**Importante:** Todas las imágenes renderizadas en esta documentación son generadas por IA solo con fines indicativos y no representan medidas exactas, materiales o apariencia final. Consulte las especificaciones y dimensiones en el texto para información precisa.
 ---
 
 # Sección 1: Muro de Gabinetes Altos

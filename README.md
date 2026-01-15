@@ -2,6 +2,8 @@
 
 This repository documents the complete kitchen design, organized by construction sections.
 
+**Note:** All renders in this documentation are AI-generated for indication purposes only and do not represent exact measurements, materials, or final appearance. Refer to specifications and dimensions in the text for accurate information.
+
 ## Structure
 
 - **sections/** - Kitchen sections in assembly order

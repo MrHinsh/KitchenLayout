@@ -2,6 +2,8 @@
 
 ![Render de Isla](images/renders/section-03-island/overview.png)
 
+*Nota: Las imágenes renderizadas son generadas por IA solo con fines indicativos y no representan medidas exactas o apariencia final.*
+
 ## Descripción General
 
 Isla de cocina independiente que proporciona espacio de trabajo adicional y almacenamiento.
