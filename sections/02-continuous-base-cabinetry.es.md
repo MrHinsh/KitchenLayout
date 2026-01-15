@@ -6,43 +6,31 @@
 
 Esta sección abarca dos muros y proporciona gabinetes base continuos con fregadero, lavavajillas y almacenamiento integrados.
 
-### Extensión total
-- **Longitud:** a definir mm (abarcando dos muros)
+**Extensión total:** a definir mm (abarcando dos muros)
 
 ---
 
 ## Estándares y Especificaciones Comunes
 
-### Dimensiones estándar
-- **Altura:** Altura de encimera estándar (a definir)
-- **Profundidad:** Profundidad estándar de gabinete base (a definir)
+**Dimensiones estándar:**  
+- Altura: Altura de encimera estándar (a definir)  
+- Profundidad: Profundidad estándar de gabinete base (a definir)  
 
-### Materiales y acabado estándar
-- **Madera Parota**, tono natural oscuro, sin manijas
-- Consistente con gabinetería alta
+**Materiales y acabado:** Madera Parota, tono natural oscuro, sin manijas, consistente con gabinetería alta
 
-### Continuidad visual
-- Todos los frentes de cajones y puertas alineados para apariencia continua
-- Diseño sin manijas mantenido en todo
-- Zócalo negro empotrado continuo a lo largo de toda la extensión
+**Continuidad visual:** Todos los frentes de cajones y puertas alineados para apariencia continua, diseño sin manijas mantenido en todo, zócalo negro empotrado continuo a lo largo de toda la extensión
 
 ---
 
 ## Banco de Cajones 1
 
-### Dimensiones
-- **Ancho:** a definir mm
-- **Altura:** Altura de encimera estándar
-- **Profundidad:** Profundidad estándar de gabinete base
+**Ancho:** a definir mm  
+**Altura:** Altura de encimera estándar  
+**Profundidad:** Profundidad estándar de gabinete base
 
-### Configuración
-- Pila de **cajones profundos** desde el nivel del piso hasta la altura de la encimera
-- Correderas de extensión completa con cierre suave
-- **Frentes de madera maciza de Parota**, sin manijas
-- Correderas de servicio pesado adecuadas para condiciones tropicales húmedas
+**Configuración:** Pila de cajones profundos desde el nivel del piso hasta la altura de la encimera, correderas de extensión completa con cierre suave, frentes de madera maciza de Parota sin manijas, correderas de servicio pesado adecuadas para condiciones tropicales húmedas
 
-### Intención visual
-- Cajones alineados con gabinería adyacente para continuidad visual
+**Intención visual:** Cajones alineados con gabinetería adyacente para continuidad visual
 
 ---
 
@@ -81,141 +69,77 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 
 ## Gabinete Vertical Extraíble
 
-### Dimensiones
-- **Ancho:** a definir mm (típicamente 150-200 mm)
-- **Altura:** Altura de encimera estándar
-- **Profundidad:** Profundidad estándar de gabinete base
+**Ancho:** a definir mm (típicamente 150-200 mm)  
+**Altura:** Altura de encimera estándar  
+**Profundidad:** Profundidad estándar de gabinete base
 
-### Configuración
-- Unidad extraíble vertical de altura completa
-- Estantería interna para almacenamiento tipo despensa (botellas, aceites, especias)
-- **Frente de madera maciza de Parota**, sin manijas
-- Mecanismo extraíble de servicio pesado con cierre suave
-- Adecuado para condiciones tropicales húmedas
+**Configuración:** Unidad extraíble vertical de altura completa con estantería interna para almacenamiento tipo despensa (botellas, aceites, especias), frente de madera maciza de Parota sin manijas, mecanismo extraíble de servicio pesado con cierre suave adecuado para condiciones tropicales húmedas
 
-### Intención visual
-- Elemento vertical estrecho que proporciona almacenamiento especializado
-- Frente alineado con frentes de cajones/gabinetes adyacentes
+**Intención visual:** Elemento vertical estrecho que proporciona almacenamiento especializado, frente alineado con frentes de cajones/gabinetes adyacentes
 
 ---
 
 ## Banco de Cajones 2
 
-### Dimensiones
-- **Ancho:** a definir mm
-
-### Configuración
-- Pila de **cajones profundos** desde el nivel del piso hasta la altura de la encimera
+**Ancho:** a definir mm  
+**Configuración:** Pila de cajones profundos desde el nivel del piso hasta la altura de la encimera
 
 ---
 
 ## Gabinete de Esquina con Lazy Susan
 
-### Dimensiones
-- **Ancho:** Configuración de esquina (a definir mm cada muro)
+**Dimensiones:** Configuración de esquina (a definir mm cada muro)
 
-### Configuración
-- Gabinete de esquina con estantes giratorios **lazy susan** (a definir)
-- Mecanismo giratorio de dos niveles para máximo acceso a la esquina
-- Clasificado para carga de artículos pesados (ollas, sartenes, electrodomésticos)
+**Configuración:** Gabinete de esquina con estantes giratorios lazy susan (a definir), mecanismo giratorio de dos niveles para máximo acceso a la esquina, clasificado para carga de artículos pesados (ollas, sartenes, electrodomésticos)
 
-### Herrajes
-- Mecanismo lazy susan de servicio pesado (a definir)
-- Resistente a la corrosión para condiciones tropicales húmedas
-- Rotación suave con distribución adecuada del peso
+**Herrajes:** Mecanismo lazy susan de servicio pesado (a definir), resistente a la corrosión para condiciones tropicales húmedas, rotación suave con distribución adecuada del peso
 
 ---
 
 ## Gabinete Extraíble para Cubos de Basura
 
-### Dimensiones
-- **Ancho:** a definir mm (típicamente 600 mm para cubos duales)
+**Ancho:** a definir mm (típicamente 600 mm para cubos duales)
 
-### Configuración
-- Unidad extraíble con cubos duales de basura/reciclaje
-- Cubos removibles para limpieza
-- Ventilación para manejo de olores
-- Sin indicación visible de almacenamiento de basura cuando está cerrado
-- **Frente de madera maciza de Parota**, sin manijas
-- Cubos removibles para limpieza
-- Consideraciones de ventilación para manejo de olores
+**Configuración:** Unidad extraíble con cubos duales de basura/reciclaje (removibles para limpieza), frente de madera maciza de Parota sin manijas, ventilación para manejo de olores, sin indicación visible de almacenamiento de basura cuando está cerrado
 
-### Especificaciones de cubos
-- Cubos duales (basura y reciclaje)
-- Capacidad adecuada para uso doméstico
-- Materiales de fácil limpieza
-- Mecanismo de tapa seguro
+**Especificaciones de cubos:** Cubos duales (basura y reciclaje), capacidad adecuada para uso doméstico, materiales de fácil limpieza, mecanismo de tapa seguro
 
 ---
 
 ## Sección de Fregadero
 
-### Dimensiones
-- **Ancho:** a definir mm
+**Ancho:** a definir mm
 
-### Configuración
-- Fregadero instalado en encimera de granito
-- Gabinete bajo fregadero con organización interna
-- Frente de cajón falso arriba del fregadero, puertas de gabinete abajo
+**Configuración:** Fregadero instalado en encimera de granito, gabinete bajo fregadero con organización interna, frente de cajón falso arriba del fregadero con puertas de gabinete abajo
 
-### Plomería
-- Suministro de agua caliente y fría (conexiones existentes - ver plumbing.md)
-- Válvulas de cierre accesibles
-- Trampa P y drenaje (ubicación existente - ver plumbing.md)
-- El diseño del gabinete acomoda la plomería existente
+**Plomería:** Suministro de agua caliente y fría (conexiones existentes - ver [plumbing.es.md](specifications/plumbing.es.md)), válvulas de cierre accesibles, trampa P y drenaje (ubicación existente - ver [plumbing.es.md](specifications/plumbing.es.md)), el diseño del gabinete acomoda la plomería existente
 
-### Especificaciones del fregadero
-- Tipo: a definir
-- Material: a definir
-- Montaje: Bajo encimera o sobre encimera (a definir)
-- Grifo: a definir
+**Especificaciones del fregadero:** Tipo a definir, material a definir, montaje bajo encimera o sobre encimera (a definir), grifo a definir
 
 ---
 
 ## Integración del Lavavajillas
 
 **Ancho del electrodoméstico:** 598 mm (Samsung DW80CG5420SREM)  
-**Abertura de gabinete requerida:** 600 mm
+**Abertura de gabinete requerida:** 600 mm  
+**Altura:** 850 mm nominal  
+**Profundidad:** ≥610 mm (para mangueras y energía)
 
-- **Altura:** 850 mm nominal  
-- **Profundidad:** ≥610 mm (para mangueras y energía)
+**Configuración:** Lavavajillas completamente integrado Samsung DW80CG5420SREM (ver [appliances-list.es.md](specifications/appliances-list.es.md)) con panel de madera Parota personalizado en la puerta, controles ocultos montados en la parte superior, ventilación frontal vía zócalo, completamente integrado - indistinguible de cajones adyacentes cuando está cerrado
 
-**Configuración:**
-- Lavavajillas completamente integrado Samsung DW80CG5420SREM (ver appliances-list.md)
-- Panel de madera Parota personalizado en la puerta
-- Controles ocultos montados en la parte superior
-- Ventilación frontal vía zócalo
-- Completamente integrado - indistinguible de cajones adyacentes cuando está cerrado
-
-### Requisitos de instalación
-- Eléctrico: 120 V / 60 Hz (circuito existente - ver electrical.md)
-- Agua: Agua fría, conexión de ¾″ (existente - ver plumbing.md)
-- Drenaje: Lazo alto o separador de aire según código local (existente - ver plumbing.md)
-- Zócalo removible y alineado con zócalo negro empotrado
+**Requisitos de instalación:** Eléctrico 120 V / 60 Hz (circuito existente - ver [electrical.es.md](specifications/electrical.es.md)), agua fría conexión de ¾″ (existente - ver [plumbing.es.md](specifications/plumbing.es.md)), drenaje lazo alto o separador de aire según código local (existente - ver [plumbing.es.md](specifications/plumbing.es.md)), zócalo removible y alineado con zócalo negro empotrado
 
 ---
 
 ## Banco de Cajones 3
 
-### Dimensiones
-- **Ancho:** a definir mm
-
-### Configuración
-- Pila de **cajones profundos** desde el nivel del piso hasta la altura de la encimera
-- Completa el recorrido base continuo
+**Ancho:** a definir mm  
+**Configuración:** Pila de cajones profundos desde el nivel del piso hasta la altura de la encimera, completa el recorrido base continuo
 
 ---
 
 ## Notas Generales
 
-### Encimera
-- **Se conserva el granito existente** - sin reemplazo
-- Solo se permite corte para instalación de placa y fregadero
-- Ver sección de placa para detalles del marco de aluminio
+**Encimera:** Se conserva el granito existente - sin reemplazo. Solo se permite corte para instalación de placa y fregadero. Ver sección de placa para detalles del marco de aluminio.
 
-### Eléctrico
-- Tomacorrientes a lo largo del salpicadero según se requiera
-- Usar circuitos existentes (ver electrical.md)
-- Verificar que las ubicaciones de tomacorrientes funcionen con el diseño de gabinetes
-- Removible para acceso y limpieza
-- Alineado con ventilación frontal del lavavajillas
+**Eléctrico:** Tomacorrientes a lo largo del salpicadero según se requiera, usar circuitos existentes (ver [electrical.es.md](specifications/electrical.es.md)), verificar que las ubicaciones de tomacorrientes funcionen con el diseño de gabinetes, removible para acceso y limpieza, alineado con ventilación frontal del lavavajillas
