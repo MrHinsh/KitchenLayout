@@ -1,6 +1,6 @@
 # Continuous Base Cabinetry
 
-![Base Cabinetry Render](../images/renders/section-02-continuous-base/overview.png)
+![Base Cabinetry Render](images/renders/section-02-continuous-base/overview.png)
 
 ## Overview
 

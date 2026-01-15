@@ -1,6 +1,6 @@
 # Gabinetes Base Continuos
 
-![Render de Gabinetes Base](../images/renders/section-02-continuous-base/overview.png)
+![Render de Gabinetes Base](images/renders/section-02-continuous-base/overview.png)
 
 ## Descripción General
 

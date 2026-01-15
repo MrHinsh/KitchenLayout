@@ -1,6 +1,6 @@
 # Tall Cabinetry Wall
 
-![Tall Cabinetry Wall Render](../images/renders/section-01-tall-wall/overview.png)
+![Tall Cabinetry Wall Render](images/renders/section-01-tall-wall/overview.png)
 
 ## Tall Cabinetry Wall – General Instructions
 

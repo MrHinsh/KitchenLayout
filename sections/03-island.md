@@ -1,6 +1,6 @@
 # Kitchen Island
 
-![Island Render](../images/renders/section-03-island/overview.png)
+![Island Render](images/renders/section-03-island/overview.png)
 
 ## Overview
 

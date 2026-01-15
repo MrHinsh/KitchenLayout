@@ -1,6 +1,6 @@
 # Muro de Gabinetes Altos
 
-![Render del Muro de Gabinetes Altos](../images/renders/section-01-tall-wall/overview.png)
+![Render del Muro de Gabinetes Altos](images/renders/section-01-tall-wall/overview.png)
 
 ## Muro de Gabinetes Altos – Instrucciones Generales
 

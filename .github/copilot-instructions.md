@@ -95,7 +95,7 @@ specifications/
 ### 7. Image References
 Format for renders:
 ```markdown
-![Descriptive Alt Text](../images/renders/section-##-name/filename.png)
+![Descriptive Alt Text](images/renders/section-##-name/filename.png)
 ```
 
 Image folder structure:
@@ -149,6 +149,24 @@ When making changes:
 - Keep specifications synchronized across sections
 - Update appliances-list.md when mentioning appliances in sections
 - Maintain consistency in terminology across all files
+- **ALWAYS run the build script after making changes:** `.\build\build-pdf.ps1`
+
+### 12. Build Process
+**CRITICAL: After any markdown file changes, ALWAYS run the build script:**
+
+```powershell
+.\build\build-pdf.ps1
+```
+
+This generates:
+- `output/kitchen-layout-en.docx` (English)
+- `output/kitchen-layout-es.docx` (Spanish)
+
+Run the build to verify:
+- No pandoc errors
+- Both language versions generate successfully
+- Image paths are correct
+- Content renders properly
 
 ## Common Tasks
 
@@ -158,6 +176,7 @@ When making changes:
 3. Include "Cabinet maker instructions" section
 4. Reference in relevant section file (e.g., `sections/01-tall-cabinetry-wall.md`)
 5. Update Spanish section file as well
+6. **Run build script:** `.\build\build-pdf.ps1`
 
 ### Adding a New Section
 1. Create `sections/##-section-name.md`
@@ -166,12 +185,14 @@ When making changes:
 4. Update `index.es.md` with Spanish reference
 5. Update `build/build-pdf.ps1` to include both files
 6. Update README.md and README.es.md
+7. **Run build script:** `.\build\build-pdf.ps1`
 
 ### Updating Specifications
 1. Edit specification file (e.g., `electrical.md`)
 2. Update corresponding `.es.md` file
 3. Check if change affects any section files
 4. Update all affected files in both languages
+5. **Run build script:** `.\build\build-pdf.ps1`
 
 ## Language-Specific Translations
 

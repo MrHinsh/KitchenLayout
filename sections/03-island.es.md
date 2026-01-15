@@ -1,6 +1,6 @@
 # Isla de Cocina
 
-![Render de Isla](../images/renders/section-03-island/overview.png)
+![Render de Isla](images/renders/section-03-island/overview.png)
 
 ## Descripción General
 
