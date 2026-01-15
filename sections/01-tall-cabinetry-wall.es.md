@@ -13,11 +13,11 @@
 ### Materiales y acabado
 - **Madera maciza de Parota**, tono natural oscuro  
 - Frentes planos, modernos, sin manijas  
-- Revelaciones y líneas de sombra consistentes en toda la gabineterí alta  
+- Separaciones y líneas de sombra consistentes en toda la gabineterí alta  
 
 ### Herrajes y ambiente
 - Herrajes de cierre suave en todo  
-- Bisagras y correderas adecuadas para condiciones tropicales húmedas  
+- Bisagras y rieles adecuadas para condiciones tropicales húmedas  
 
 ### Servicios
 - Espacios de servicio **solo donde lo requieran** las especificaciones del electrodoméstico o el código eléctrico  
@@ -56,7 +56,7 @@
 - **Horno:** Horno eléctrico integrado a altura ergonómica estándar (220 V circuito dedicado)  
 - **Microondas:** Microondas independiente, visualmente integrado, instalado directamente arriba del horno a altura de cabeza (110 V, suministro puede ser compartido)  
 - Los electrodomésticos deben estar alineados verticalmente y centrados dentro del gabinete  
-- Microondas instalado usando **apertura tipo caja de sombra empotrada** con revelación uniforme de 5–10 mm en todos los lados  
+- Microondas instalado usando **apertura tipo caja de sombra empotrada** con separación uniforme de 5–10 mm en todos los lados  
 - Respetar todos los espacios de ventilación del fabricante  
 - El microondas debe ser **completamente removible** sin desmontar la gabinería  
 - **Sin paneles, puertas ni revestimientos** aplicados al microondas (kits de moldura solo si el modelo los soporta explícitamente)  
@@ -79,7 +79,7 @@
 ## Sección de Refrigerador
 
 **Ancho del electrodoméstico:** 908 mm (Samsung RF32CGSN10B1)  
-**Ancho total del gabinete:** 908 mm mínimo de abertura libre + holguras laterales  
+**Ancho total del gabinete:** 908 mm mínimo de abertura libre + espacios libres laterales  
 **Altura:** Piso a techo  
 **Profundidad:** Igualar gabinetes altos adyacentes
 
@@ -102,9 +102,9 @@
 **Altura:** Piso a techo  
 **Profundidad:** Igualar gabinetes altos adyacentes
 
-**Sección inferior:** Cajones desde el nivel del piso hasta altura de encimera estándar (cajones de formato profundo para electrodomésticos pequeños y almacenamiento general, alturas de cajones alineadas visualmente con gabinetes base adyacentes)  
+**Sección inferior:** Cajones desde el nivel del piso hasta altura de cubierta estándar (cajones de formato profundo para electrodomésticos pequeños y almacenamiento general, alturas de cajones alineadas visualmente con gabinetes base adyacentes)  
 
-**Sección superior:** Almacenamiento de electrodomésticos de altura completa detrás de puertas desde altura de encimera hasta el techo, destinado para estación de café y electrodomésticos pequeños con estantería interna ajustable dimensionada para máquina de café, molino y accesorios, iluminación LED cálida integrada  
+**Sección superior:** Almacenamiento de electrodomésticos de altura completa detrás de puertas desde altura de cubierta hasta el techo, destinado para estación de café y electrodomésticos pequeños con estantería interna ajustable dimensionada para máquina de café, molino y accesorios, iluminación LED cálida integrada  
 
 **Puertas:** Puertas plegables con bisagras laterales (dos hojas por lado) que abren hacia afuera y se pliegan planas contra los paneles laterales del gabinete, se estacionan completamente abiertas sostenidas con retenedores magnéticos o mecánicos. **Sin puertas de bolsillo, sin sistemas de rodillos, sin mecanismos levadizos**. Dirección de la veta coincidente entre puertas y alineada con gabinería adyacente.  
 

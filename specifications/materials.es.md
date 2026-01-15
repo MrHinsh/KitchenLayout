@@ -18,15 +18,15 @@
   * **Acabado mate**  * Completamente sellado y adecuado para **condiciones tropicales húmedas y costeras** (Cancún).
   * Resistente a la humedad y al moho.
 
-### Encimeras
+### Cubiertas
 
-* **Se conserva la encimera de granito existente.**
-* Solo se permite corte o ajuste localizado donde se especifique (relleno de placa).
+* **Se conserva la cubierta de granito existente.**
+* Solo se permite corte o ajuste localizado donde se especifique (relleno de estufa).
 * No se asume reemplazo ni refinición.
 
 ### Herrajes
 
-* **Correderas de cajón:**
+* **Rieles de cajón:**
 
   * Servicio pesado, extensión completa, cierre suave.
   * Resistentes a la corrosión.
@@ -37,7 +37,7 @@
 * **Manijas:**
 
   * Ninguna.
-  * Sin manijas logrado mediante revelaciones, líneas de sombra o jaladores de dedo.
+  * Sin manijas logrado mediante separaciones, líneas de sombra o jaladores de dedo.
 
 ### Sellantes y adhesivos
 
