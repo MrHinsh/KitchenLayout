@@ -215,24 +215,7 @@ Run the build to verify:
 
 ## Language-Specific Translations
 
-### Common Kitchen Terms
-| English | Spanish |
-|---------|---------|
-| Cabinet maker | Ebanista / Fabricante de gabinetes |
-| Countertop | Encimera / Cubierta |
-| Hob/Cooktop | Placa / Estufa |
-| Sink | Fregadero / Lavabo |
-| Dishwasher | Lavavajillas |
-| Drawer | Cajón |
-| Door | Puerta |
-| Handleless | Sin manijas / Sin tiradores |
-| Soft-close | Cierre suave / Amortiguado |
-| Built-in | Empotrado / Integrado |
-| Freestanding | Independiente |
-| Installation | Instalación |
-| Clearance | Holgura / Espacio libre |
-| Ventilation | Ventilación |
-| Circuit | Circuito |
+**IMPORTANT:** All Spanish translations must use **Mexican Spanish** appropriate for tradespeople in Mérida, Yucatán. Always use Mexican Spanish and Yucatán-friendly terms that local carpenters and contractors will understand. Avoid European Spanish terminology.
 
 ## Tone and Style
 - **Professional and precise** - for contractors and tradespeople
