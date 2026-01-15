@@ -16,12 +16,8 @@ Freestanding kitchen island providing additional workspace and storage.
 ## Standards and Common Specifications
 
 ### Standard materials and finish
-- **Wood:** Solid Parota wood, dark natural tone
-- **Style:** Flat, modern, handleless fronts
-- **Aesthetic:** Consistent with overall kitchen aesthetic
-
-### Standard hardware
-- **Drawer runners:** Full-extension, soft-close, heavy-duty, suitable for humid tropical conditions
+- **Parota wood**, dark natural tone, handleless
+- Consistent with overall kitchen aesthetic
 
 ### Countertop
 - **Existing granite retained** - no replacement

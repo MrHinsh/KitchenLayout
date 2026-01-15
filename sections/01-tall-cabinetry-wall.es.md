@@ -187,4 +187,3 @@ Los electrodomésticos deben estar alineados verticalmente y centrados dentro de
 
 ---
 
-**Calificación de confianza:** 0.98

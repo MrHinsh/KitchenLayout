@@ -18,14 +18,8 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 - **Profundidad:** Profundidad estándar de gabinete base (a definir)
 
 ### Materiales y acabado estándar
-- **Madera:** Madera maciza de Parota, tono natural oscuro
-- **Estilo:** Frentes planos, modernos, sin manijas
-- **Estética:** Consistente con gabinería alta
-
-### Herrajes estándar
-- **Bisagras:** Cierre suave, adecuadas para condiciones tropicales húmedas
-- **Correderas de cajones:** Extensión completa, cierre suave, servicio pesado, adecuadas para condiciones tropicales húmedas
-- **Mecanismos extraíbles:** Servicio pesado con cierre suave
+- **Madera Parota**, tono natural oscuro, sin manijas
+- Consistente con gabinetería alta
 
 ### Continuidad visual
 - Todos los frentes de cajones y puertas alineados para apariencia continua

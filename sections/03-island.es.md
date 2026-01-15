@@ -16,12 +16,8 @@ Isla de cocina independiente que proporciona espacio de trabajo adicional y alma
 ## Estándares y Especificaciones Comunes
 
 ### Materiales y acabado estándar
-- **Madera:** Madera maciza de Parota, tono natural oscuro
-- **Estilo:** Frentes planos, modernos, sin manijas
-- **Estética:** Consistente con la estética general de cocina
-
-### Herrajes estándar
-- **Correderas de cajones:** Extensión completa, cierre suave, servicio pesado, adecuadas para condiciones tropicales húmedas
+- **Madera Parota**, tono natural oscuro, sin manijas
+- Consistente con la estética general de cocina
 
 ### Encimera
 - **Se conserva el granito existente** - sin reemplazo

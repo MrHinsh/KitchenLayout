@@ -9,13 +9,8 @@
 - Depth: Match adjacent tall cabinetry  
 
 ### Materials and finish
-- **Solid Parota wood**, dark natural tone  
-- Flat, modern, handleless fronts  
+- **Parota wood**, dark natural tone, handleless  
 - Consistent reveals and shadow gaps across all tall cabinetry  
-
-### Hardware and environment
-- Soft-close hardware throughout  
-- Hinges and runners suitable for humid tropical conditions  
 
 ### Services
 - Service voids **only where required** by appliance specifications or electrical code  
@@ -41,14 +36,10 @@
 - Upper cabinet continues uninterrupted to the ceiling  
 
 ### Drawer specification
-- Drawers to be full-extension, deep format for general storage  
-- **Solid Parota wood fronts**, handleless  
-- Heavy-duty soft-close runners  
+- Full-extension, deep format for general storage  
 
 ### Upper cabinet specification
-- Single full-height door or split doors as required by height and hardware limits  
-- Door(s) to be **handleless**, flat modern profile  
-- Use soft-close hinges suitable for humid environments  
+- Single full-height door or split doors as required by height  
 - Internal layout configurable for pantry-style storage (adjustable shelves)  
 
 ### Visual intent
@@ -84,14 +75,11 @@ Appliances must be vertically aligned and centred within the cabinet
 
 ### Lower section
 - Drawers from floor level up to oven base  
-- Drawer fronts in **solid Parota wood**, handleless  
-- Heavy-duty soft-close drawer runners  
 
 ### Upper section
 - Full-height cabinet above the microwave, extending to the ceiling  
 - Use **vertical lift-up door** where door height allows safe operation  
 - If door is too tall, split into two vertically aligned doors  
-- Soft-open and soft-close hardware suitable for humid environments  
 
 ### Electrical
 - **220 V circuit dedicated to the oven**  
@@ -124,9 +112,7 @@ Appliances must be vertically aligned and centred within the cabinet
 
 ### Upper cabinet
 - Cabinet above refrigerator extending fully to the ceiling  
-- Door to be handleless, flat modern profile  
-- Soft-close hinges suitable for humid environments  
-- Split doors if required by height and hardware limits  
+- Split doors if required by height  
 
 ### Ventilation and services
 - Ventilation per refrigerator manufacturer requirements  
@@ -150,8 +136,6 @@ Appliances must be vertically aligned and centred within the cabinet
 ### Lower section
 - Drawers from floor level up to **standard counter height**  
 - Deep-format drawers for small appliance and general storage  
-- Drawer fronts in **solid Parota wood**, handleless  
-- Heavy-duty soft-close drawer runners  
 - Drawer heights aligned visually with adjacent base cabinetry  
 
 ### Upper section
@@ -164,21 +148,15 @@ Appliances must be vertically aligned and centred within the cabinet
 - **Side-hinged bi-fold doors**, two leaves per side  
 - Doors open outward and **fold flat against the cabinet side panels**  
 - Doors **park fully open**, held with magnetic or mechanical stays  
-- Soft-close hinges suitable for humid environments  
 - **No pocket doors, no roller systems, no lift-up mechanisms**  
-- Handleless, flat profile  
 - Grain direction matched across doors and aligned with adjacent cabinetry  
 
 ### Electrical
-- Internal **110 V outlets** for appliances  
-- Shared supply acceptable  
+- Internal **110 V outlets** for appliances (see electrical.md)  
 - Outlets concealed but accessible  
-- Wiring rated for humid tropical conditions  
 
 ### Services and ventilation
 - Ventilation appropriate for coffee machines and small appliances  
-- Service voids only where required  
-- No active exhaust unless later specified  
 
 ### Visual intent
 - Closed: reads as a **single uninterrupted cabinet volume**  
@@ -186,5 +164,3 @@ Appliances must be vertically aligned and centred within the cabinet
 - Width balanced with the **800 mm oven/microwave tower**  
 
 ---
-
-**Confidence rating:** 0.98

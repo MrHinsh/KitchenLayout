@@ -17,9 +17,6 @@
 * **Sistema de acabado:**
   * **Acabado mate**  * Completamente sellado y adecuado para **condiciones tropicales húmedas y costeras** (Cancún).
   * Resistente a la humedad y al moho.
-* **Tratamiento de bordes:**
-
-  * Todos los bordes sellados, sin sustrato expuesto.
 
 ### Encimeras
 

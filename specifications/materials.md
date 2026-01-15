@@ -5,7 +5,7 @@
 * **Carcases:**
 
   * **Madera** (engineered wood board), suitable for cabinetry.
-  * All panels sealed on **all faces and edges**, including backs.
+  * All panels sealed on all faces and edges.
 * **Fronts:**
 
   * **Parota veneer–covered fronts** (Parota appearance).
@@ -19,9 +19,6 @@
   * **Matte sheen**
   * Fully sealed and suitable for **humid tropical and coastal conditions** (Cancún).
   * Moisture-resistant and mould-resistant.
-* **Edge treatment:**
-
-  * All edges sealed, no exposed substrate.
 
 ### Countertops
 
@@ -55,6 +52,5 @@
 ### General build requirements
 
 * Allow for **seasonal movement** between carcass and veneered fronts.
-* No unsealed end grain anywhere in the build.
 * All fixings to be corrosion-resistant.
 * Workmanship suitable for long-term use in a coastal Cancún environment.

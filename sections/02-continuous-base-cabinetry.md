@@ -18,14 +18,8 @@ This section spans two walls and provides continuous base cabinetry with integra
 - **Depth:** Standard base cabinet depth (TBD)
 
 ### Standard materials and finish
-- **Wood:** Solid Parota wood, dark natural tone
-- **Style:** Flat, modern, handleless fronts
-- **Aesthetic:** Consistent with tall cabinetry
-
-### Standard hardware
-- **Hinges:** Soft-close, suitable for humid tropical conditions
-- **Drawer runners:** Full-extension, soft-close, heavy-duty, suitable for humid tropical conditions
-- **Pull-out mechanisms:** Heavy-duty with soft-close
+- **Parota wood**, dark natural tone, handleless
+- Consistent with tall cabinetry aesthetic
 
 ### Visual continuity
 - All drawer and door fronts aligned for seamless appearance
@@ -186,8 +180,3 @@ This section spans two walls and provides continuous base cabinetry with integra
 - **Existing granite retained** - no replacement
 - Only cutting permitted for hob installation and sink
 - See hob section for aluminium surround details
-
-### Electrical
-- Outlets along backsplash as required
-- Use existing circuits (see electrical.md)
-- Verify outlet locations work with cabinet layout
