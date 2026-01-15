@@ -28,22 +28,20 @@
 
 ---
 
-## Sección de Almacenamiento Alto de 600 mm
+## Sección de Almacenamiento Alto
 
-### Dimensiones
-- **Ancho total:** 600 mm  
+**Ancho del gabinete:** 600 mm
+
 - **Altura:** Piso a techo  
-- **Profundidad:** Igualar gabinetes altos adyacentes  
+- **Profundidad:** Igualar gabinetes altos adyacentes
 
-### Configuración
+**Configuración:**
 - La sección inferior consistirá en **cajones profundos** desde el nivel del piso hacia arriba  
 - A una altura ergonómica práctica, los cajones transicionan a un **gabinete de altura completa**  
 - El gabinete superior continúa ininterrumpido hasta el techo  
 
-### Especificación de cajones
+**Especificación de cajones:**
 - Cajones de extensión completa, formato profundo para almacenamiento general  
-- **Frentes de madera maciza de Parota**, sin manijas  
-- Correderas de servicio pesado con cierre suave  
 
 ### Especificación de gabinete superior
 - Una sola puerta de altura completa o puertas divididas según lo requieran la altura y los límites de herraje  
@@ -57,14 +55,14 @@
 
 ---
 
-## Torre de Horno y Microondas de 800 mm
+## Torre de Horno y Microondas
 
-### Dimensiones
-- **Ancho total:** 800 mm  
+**Ancho del gabinete:** 800 mm
+
 - **Altura:** Piso a techo  
-- **Profundidad:** Igualar gabinetes altos adyacentes  
+- **Profundidad:** Igualar gabinetes altos adyacentes
 
-### Configuración de electrodomésticos
+**Configuración de electrodomésticos:**
 - **Horno:** Horno eléctrico integrado, instalado a altura ergonómica estándar  
   - **Alimentación:** 220 V  
   - **Circuito:** Dedicado  
@@ -82,16 +80,13 @@ Los electrodomésticos deben estar alineados verticalmente y centrados dentro de
 - **Sin paneles, puertas ni revestimientos** aplicados al microondas  
 - Los kits de moldura solo deben usarse si el modelo seleccionado los soporta explícitamente  
 
-### Sección inferior
+**Sección inferior:**
 - Cajones desde el nivel del piso hasta la base del horno  
-- Frentes de cajón en **madera maciza de Parota**, sin manijas  
-- Correderas de cajón de servicio pesado con cierre suave  
 
-### Sección superior
+**Sección superior:**
 - Gabinete de altura completa arriba del microondas, extendiéndose hasta el techo  
 - Usar **puerta levadiza vertical** donde la altura de la puerta permita operación segura  
 - Si la puerta es demasiado alta, dividir en dos puertas alineadas verticalmente  
-- Herraje de apertura y cierre suave adecuado para ambientes húmedos  
 
 ### Instalación eléctrica
 - **Circuito de 220 V dedicado al horno**  
@@ -109,14 +104,16 @@ Los electrodomésticos deben estar alineados verticalmente y centrados dentro de
 
 ---
 
-## Sección de Refrigerador de 908 mm
+## Sección de Refrigerador
 
-### Dimensiones
-- **Ancho total:** 908 mm  
+**Ancho del electrodoméstico:** 908 mm (Samsung RF32CGSN10B1)
+
+**Ancho total del gabinete:** 908 mm mínimo de abertura libre + holguras laterales
+
 - **Altura:** Piso a techo  
-- **Profundidad:** Igualar gabinetes altos adyacentes  
+- **Profundidad:** Igualar gabinetes altos adyacentes
 
-### Configuración de electrodoméstico
+**Configuración de electrodoméstico:**
 - **Refrigerador:** Refrigerador de altura completa con puertas francesas y cajón congelador inferior  
 - Electrodoméstico instalado como **independiente pero visualmente integrado**  
 - Refrigerador centrado dentro de la apertura  
@@ -140,7 +137,14 @@ Los electrodomésticos deben estar alineados verticalmente y centrados dentro de
 
 ---
 
-## Almacenamiento de Electrodomésticos de 800 mm (Garaje de Electrodomésticos)
+## Almacenamiento de Electrodomésticos (Garaje de Electrodomésticos)
+
+**Ancho del gabinete:** 800 mm
+
+- **Altura:** Piso a techo  
+- **Profundidad:** Igualar gabinetes altos adyacentes
+
+**Sección inferior:**
 
 ### Dimensiones
 - **Ancho total:** 800 mm  

@@ -23,14 +23,14 @@
 
 ---
 
-## 600 mm Tall Storage Section
+## Tall Storage Section
 
-### Dimensions
-- **Overall width:** 600 mm  
+**Cabinet width:** 600 mm
+
 - **Height:** Floor to ceiling  
-- **Depth:** Match adjacent tall cabinetry  
+- **Depth:** Match adjacent tall cabinetry
 
-### Configuration
+**Configuration:**
 - Lower section to consist of **deep drawers** from floor level upward  
 - At a practical ergonomic height, drawers transition into a **full-height cabinet**  
 - Upper cabinet continues uninterrupted to the ceiling  
@@ -48,14 +48,14 @@
 
 ---
 
-## 800 mm Oven & Microwave Tower
+## Oven & Microwave Tower
 
-### Dimensions
-- **Overall width:** 800 mm  
+**Cabinet width:** 800 mm
+
 - **Height:** Floor to ceiling  
-- **Depth:** Match adjacent tall cabinetry  
+- **Depth:** Match adjacent tall cabinetry
 
-### Appliance configuration
+**Appliance configuration:**
 - **Oven:** Integrated electric oven, installed at standard ergonomic oven height  
   - **Power:** 220 V  
   - **Circuit:** Dedicated  
@@ -97,14 +97,16 @@ Appliances must be vertically aligned and centred within the cabinet
 
 ---
 
-## 908 mm Refrigerator Section
+## Refrigerator Section
 
-### Dimensions
-- **Overall width:** 908 mm  
+**Appliance width:** 908 mm (Samsung RF32CGSN10B1)
+
+**Overall cabinet width:** 908 mm minimum clear opening + side clearances
+
 - **Height:** Floor to ceiling  
-- **Depth:** Match adjacent tall cabinetry  
+- **Depth:** Match adjacent tall cabinetry
 
-### Appliance configuration
+**Configuration:**
 - **Refrigerator:** Full-height French-door refrigerator with bottom freezer drawer  
 - Appliance installed as **freestanding but visually integrated**  
 - Refrigerator centred within the opening  
@@ -126,14 +128,14 @@ Appliances must be vertically aligned and centred within the cabinet
 
 ---
 
-## 800 mm Appliance Storage (Appliance Garage)
+## Appliance Storage (Appliance Garage)
 
-### Dimensions
-- **Overall width:** 800 mm  
+**Cabinet width:** 800 mm
+
 - **Height:** Floor to ceiling  
-- **Depth:** Match adjacent tall cabinetry  
+- **Depth:** Match adjacent tall cabinetry
 
-### Lower section
+**Lower section:**
 - Drawers from floor level up to **standard counter height**  
 - Deep-format drawers for small appliance and general storage  
 - Drawer heights aligned visually with adjacent base cabinetry  

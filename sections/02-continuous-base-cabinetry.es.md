@@ -174,12 +174,13 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 
 ## Integración del Lavavajillas
 
-### Dimensiones
-- **Ancho:** 600 mm
-- **Altura:** 850 mm nominal
-- **Profundidad:** ≥610 mm (para mangueras y alimentación)
+**Ancho del electrodoméstico:** 598 mm (Samsung DW80CG5420SREM)  
+**Abertura de gabinete requerida:** 600 mm
 
-### Configuración
+- **Altura:** 850 mm nominal  
+- **Profundidad:** ≥610 mm (para mangueras y energía)
+
+**Configuración:**
 - Lavavajillas completamente integrado Samsung DW80CG5420SREM (ver appliances-list.md)
 - Panel de madera Parota personalizado en la puerta
 - Controles ocultos montados en la parte superior

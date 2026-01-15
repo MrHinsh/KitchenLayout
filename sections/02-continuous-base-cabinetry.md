@@ -38,12 +38,12 @@ This section spans two walls and provides continuous base cabinetry with integra
 
 ---
 
-## 1000 mm Hob Section
+## Hob Section
 
-### Dimensions
-- **Overall width:** 1000 mm
+**Hob width:** 900 mm (IO Mabe PIO90SMXN0)  
+**Cabinet section width:** 1000 mm
 
-### Configuration
+**Configuration:**
 - **Hob:** IO Mabe PIO90SMXN0 (900 mm gas hob) - see appliances-list.md
 - Hob centered within 1000 mm section
 - **Aluminium infill surround:** Single piece of full-width matte black powder-coated aluminium wrapping around hob perimeter, including backsplash and front drop, to correct depth difference between granite and hob
@@ -143,12 +143,13 @@ This section spans two walls and provides continuous base cabinetry with integra
 
 ## Dishwasher Integration
 
-### Dimensions
-- **Width:** 600 mm
-- **Height:** 850 mm nominal
+**Appliance width:** 598 mm (Samsung DW80CG5420SREM)  
+**Cabinet opening required:** 600 mm
+
+- **Height:** 850 mm nominal  
 - **Depth:** ≥610 mm (for hoses and power)
 
-### Configuration
+**Configuration:**
 - Samsung DW80CG5420SREM fully integrated dishwasher (see appliances-list.md)
 - Custom Parota wood panel on door
 - Top-mounted concealed controls
