@@ -14,6 +14,8 @@ This section spans two walls and provides continuous base cabinetry with integra
 
 ## Wall Cabinets Above Continuous Base
 
+![Hob Section](images/renders/section-02-continuous-base/hob-sample2.png)
+
 **Depth:** 350 mm  
 **Height:** From counter height to ceiling
 

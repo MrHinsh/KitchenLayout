@@ -1,6 +1,6 @@
 # Gabinetes Base Continuos
 
-![Render de Gabinetes Base](images/renders/section-02-continuous-base/hob-sample.png)
+![Render de Gabinetes Base](images/renders/section-02-continuous-base/overview.png)
 
 *Nota: Las imágenes renderizadas son generadas por IA solo con fines indicativos y no representan medidas exactas o apariencia final.*
 
@@ -13,6 +13,8 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 ---
 
 ## Gabinetes de Pared Sobre Base Continua
+
+![Sección de Estufa](images/renders/section-02-continuous-base/hob-sample2.png)
 
 **Profundidad:** 350 mm  
 **Altura:** Desde altura de cubierta hasta el techo
@@ -65,6 +67,8 @@ Esta sección abarca dos muros y proporciona gabinetes base continuos con fregad
 ---
 
 ## Sección de Estufa de 1000 mm
+
+![Sección de Estufa](images/renders/section-02-continuous-base/hob-sample.png)
 
 ### Dimensiones
 - **Ancho total:** 1000 mm
