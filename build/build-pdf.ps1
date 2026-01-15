@@ -89,5 +89,12 @@ Write-Host "✓ All documents generated successfully!" -ForegroundColor Green
 Write-Host "  - $outputFileEN" -ForegroundColor Cyan
 Write-Host "  - $outputFileES" -ForegroundColor Cyan
 Write-Host ""
-Write-Host "Opening English document..." -ForegroundColor Cyan
-Start-Process $outputFileEN
+
+# Try to open the English document, but don't fail if it errors
+try {
+    Write-Host "Opening English document..." -ForegroundColor Cyan
+    Start-Process $outputFileEN -ErrorAction Stop
+}
+catch {
+    Write-Host "Note: Could not automatically open document. You can manually open: $outputFileEN" -ForegroundColor Yellow
+}
