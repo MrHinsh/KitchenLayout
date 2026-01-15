@@ -87,7 +87,7 @@ specifications/
 - **Environment:** All materials and hardware must be suitable for **humid tropical/coastal conditions** (Cancún, Mexico)
 
 ### 6. Material Specifications
-- **Wood:** Parota (also spelled Pirota) - dark natural tone
+- **Wood:** Parota - dark natural tone
 - **Finish:** Handleless, flat, modern
 - **Hardware:** Always specify "soft-close" and "suitable for humid tropical conditions"
 - **Countertops:** Existing granite retained (no replacement)

@@ -1,10 +1,21 @@
 # Kitchen Layout PDF Build Script
-# Requires: Pandoc with xelatex or other PDF engine
+# Requires: Pandoc
+# Note: For PDF generation, you need one of these installed:
+#   - MiKTeX or TeX Live (for pdflatex/xelatex)
+#   - wkhtmltopdf (https://wkhtmltopdf.org/)
+#   - Or use: pandoc --to docx instead to generate Word documents
 
 $ErrorActionPreference = "Stop"
 
 # Navigate to repository root
 Set-Location $PSScriptRoot\..
+
+# Create output directory if it doesn't exist
+$outputDir = "output"
+if (-not (Test-Path $outputDir)) {
+    New-Item -ItemType Directory -Path $outputDir | Out-Null
+    Write-Host "Created output directory: $outputDir" -ForegroundColor Cyan
+}
 
 # Check if pandoc is installed
 if (-not (Get-Command pandoc -ErrorAction SilentlyContinue)) {
@@ -12,12 +23,12 @@ if (-not (Get-Command pandoc -ErrorAction SilentlyContinue)) {
     exit 1
 }
 
-Write-Host "Building Kitchen Layout PDFs (English & Spanish)..." -ForegroundColor Cyan
+Write-Host "Building Kitchen Layout Documents (English & Spanish)..." -ForegroundColor Cyan
 Write-Host ""
 
-# Build English PDF
-Write-Host "Building English PDF..." -ForegroundColor Yellow
-$outputFileEN = "kitchen-layout-en.pdf"
+# Build English document
+Write-Host "Building English document..." -ForegroundColor Yellow
+$outputFileEN = "$outputDir/kitchen-layout-en.docx"
 
 pandoc `
     --metadata title="Kitchen Layout Specification" `
@@ -33,27 +44,21 @@ pandoc `
     -o $outputFileEN `
     --toc `
     --toc-depth=3 `
-    --pdf-engine=xelatex `
-    --variable geometry:margin=1in `
-    --variable fontsize=11pt `
-    --variable mainfont="Calibri" `
-    --variable monofont="Consolas" `
-    --syntax-definition=tango `
     2>&1
 
 if ($LASTEXITCODE -eq 0) {
-    Write-Host "✓ English PDF generated successfully: $outputFileEN" -ForegroundColor Green
+    Write-Host "✓ English document generated successfully: $outputFileEN" -ForegroundColor Green
 }
 else {
-    Write-Error "Failed to generate English PDF. Check pandoc output above."
+    Write-Error "Failed to generate English document. Check pandoc output above."
     exit 1
 }
 
 Write-Host ""
 
-# Build Spanish PDF
-Write-Host "Building Spanish PDF..." -ForegroundColor Yellow
-$outputFileES = "kitchen-layout-es.pdf"
+# Build Spanish document
+Write-Host "Building Spanish document..." -ForegroundColor Yellow
+$outputFileES = "$outputDir/kitchen-layout-es.docx"
 
 pandoc `
     --metadata title="Especificación de Diseño de Cocina" `
@@ -69,26 +74,20 @@ pandoc `
     -o $outputFileES `
     --toc `
     --toc-depth=3 `
-    --pdf-engine=xelatex `
-    --variable geometry:margin=1in `
-    --variable fontsize=11pt `
-    --variable mainfont="Calibri" `
-    --variable monofont="Consolas" `
-    --syntax-definition=tango `
     2>&1
 
 if ($LASTEXITCODE -eq 0) {
-    Write-Host "✓ Spanish PDF generated successfully: $outputFileES" -ForegroundColor Green
+    Write-Host "✓ Spanish document generated successfully: $outputFileES" -ForegroundColor Green
 }
 else {
-    Write-Error "Failed to generate Spanish PDF. Check pandoc output above."
+    Write-Error "Failed to generate Spanish document. Check pandoc output above."
     exit 1
 }
 
 Write-Host ""
-Write-Host "✓ All PDFs generated successfully!" -ForegroundColor Green
+Write-Host "✓ All documents generated successfully!" -ForegroundColor Green
 Write-Host "  - $outputFileEN" -ForegroundColor Cyan
 Write-Host "  - $outputFileES" -ForegroundColor Cyan
 Write-Host ""
-Write-Host "Opening English PDF..." -ForegroundColor Cyan
+Write-Host "Opening English document..." -ForegroundColor Cyan
 Start-Process $outputFileEN

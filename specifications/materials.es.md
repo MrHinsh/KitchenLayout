@@ -8,7 +8,7 @@
   * Todos los paneles sellados en **todas las caras y bordes**, incluyendo los respaldos.
 * **Frentes:**
 
-  * **Frentes cubiertos con chapa de Parota** (apariencia Parota/Pirota).
+  * **Frentes cubiertos con chapa de Parota** (apariencia Parota).
   * Diseño plano, moderno, sin manijas.
 
 ### Acabado y tratamiento

@@ -8,7 +8,7 @@
   * All panels sealed on **all faces and edges**, including backs.
 * **Fronts:**
 
-  * **Parota veneer–covered fronts** (Parota/Pirota appearance).
+  * **Parota veneer–covered fronts** (Parota appearance).
   * Flat, modern, handleless design.
 
 ### Finish and treatment

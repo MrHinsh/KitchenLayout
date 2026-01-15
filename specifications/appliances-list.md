@@ -167,7 +167,7 @@
 ### Cabinet maker instructions
 
 * Provide **exact 600 mm clear opening**, no fillers intruding.
-* Door to accept **custom Pirota wood panel** aligned with adjacent drawers.
+* Door to accept **custom Parota wood panel** aligned with adjacent drawers.
 * Maintain clearance for **AutoRelease™ door opening**.
 * Ensure toe-kick is **removable and aligned** with recessed black plinth.
 * No side ventilation required.

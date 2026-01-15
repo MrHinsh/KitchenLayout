@@ -9,7 +9,7 @@
 - Depth: Match adjacent tall cabinetry  
 
 ### Materials and finish
-- **Solid Pirota wood**, dark natural tone  
+- **Solid Parota wood**, dark natural tone  
 - Flat, modern, handleless fronts  
 - Consistent reveals and shadow gaps across all tall cabinetry  
 
@@ -42,7 +42,7 @@
 
 ### Drawer specification
 - Drawers to be full-extension, deep format for general storage  
-- **Solid Pirota wood fronts**, handleless  
+- **Solid Parota wood fronts**, handleless  
 - Heavy-duty soft-close runners  
 
 ### Upper cabinet specification
@@ -84,7 +84,7 @@ Appliances must be vertically aligned and centred within the cabinet
 
 ### Lower section
 - Drawers from floor level up to oven base  
-- Drawer fronts in **solid Pirota wood**, handleless  
+- Drawer fronts in **solid Parota wood**, handleless  
 - Heavy-duty soft-close drawer runners  
 
 ### Upper section
@@ -150,7 +150,7 @@ Appliances must be vertically aligned and centred within the cabinet
 ### Lower section
 - Drawers from floor level up to **standard counter height**  
 - Deep-format drawers for small appliance and general storage  
-- Drawer fronts in **solid Pirota wood**, handleless  
+- Drawer fronts in **solid Parota wood**, handleless  
 - Heavy-duty soft-close drawer runners  
 - Drawer heights aligned visually with adjacent base cabinetry  
 

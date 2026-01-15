@@ -12,7 +12,7 @@ This section spans two walls and provides continuous base cabinetry with integra
 - Total run: TBD mm (spanning two walls)
 
 ### Materials and finish
-- **Solid Pirota wood**, dark natural tone
+- **Solid Parota wood**, dark natural tone
 - Flat, modern, handleless fronts
 - Consistent with tall cabinetry aesthetic
 
